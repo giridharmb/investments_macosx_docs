@@ -58,4 +58,21 @@ Loan/EMI with prepayment, SIP/compound growth with annual step-up, inflation, an
 Ask natural-language questions such as *“Where am I overspending?”* or *“Should I pay off debt or invest?”*. A compact summary of your numbers (viewable under *What the advisor sees*) is given to Apple's on-device language model. Nothing is sent to a server. If Apple Intelligence is unavailable, a rule-based report is shown instead.
 
 ### Profile & Assumptions
-Country, state, filing status, dependents, ages, risk tolerance (with a 5-question quiz), retirement spending, Social Security/pension estimate, salary growth, and optional overrides for inflation and expected return. Load sample data or erase all data here.
+Country, state, filing status, dependents, ages, risk tolerance (with a 5-question quiz), retirement spending, Social Security/pension estimate, salary growth, and optional overrides for inflation and expected return. Data tools (backup, restore, sample data, erase) live in **Settings**.
+
+### Settings
+Open from the sidebar or with **⌘,**.
+
+| Setting | What it does |
+|---|---|
+| **Sync with iCloud** | Stores your plan in your private iCloud (CloudKit) database and syncs it across devices signed in to the same Apple Account. Shows account state, sync activity and last sync time. Turning it off keeps a local copy. |
+| **Require Face ID / Touch ID** | Locks the app on launch and when it returns from the background (falls back to device passcode). |
+
+| **Hide amounts** | Privacy mode — masks every money value on screen. |
+| **Theme / Open app to** | Light, dark or system appearance; the screen shown at launch. |
+| **Reminders** | Monthly money check-in (choose the day) and weekly spending log (choose the weekday), at a time you pick. |
+| **On-device AI analysis** | Turn Apple Intelligence features off to use rule-based analysis only. |
+| **Monte Carlo scenarios** | 500 – 5,000 simulated markets for projections. |
+| **Data** | Export a JSON backup, restore from a backup, export expenses as CSV, load sample data, or erase everything. |
+
+Device-specific preferences (theme, lock, reminders) stay on each device; your financial data is what syncs.

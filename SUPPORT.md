@@ -17,5 +17,11 @@ Recurring expenses are the same each month. Log one-off purchases to see real va
 ### Where are the interest rates and inflation from?
 Approximate 2026 defaults per country. Override inflation and expected return in *Profile & Assumptions*.
 
+### iCloud sync isn't working
+Make sure every device is signed in to the same Apple Account with iCloud enabled, and sync is on in *Settings* on each device. The Settings screen shows the iCloud account state and the last sync time. Initial sync of a large history can take a few minutes.
+
+### How do I move to a new device without iCloud?
+*Settings → Export backup (JSON)* on the old device, then *Restore from backup* on the new one.
+
 ### How do I start over?
-*Profile & Assumptions → Erase all financial data*, or *Load sample data* to explore.
+*Settings → Erase all financial data*, or *Load sample data* to explore.
