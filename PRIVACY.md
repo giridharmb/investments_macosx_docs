@@ -10,6 +10,7 @@ WealthPilot is designed so your financial data never leaves your device.
 - **On-device AI.** The AI Advisor and W-2 extraction use Apple's on-device Foundation Models. Prompts and responses are processed on your device.
 - **Documents and camera.** W-2 files, photos are read only to recognize text on-device and are not stored or transmitted. 
 - **Network.** Apart from Apple's iCloud sync (when you enable it), WealthPilot makes no network requests with your data.
+- **Automatic backups.** WealthPilot keeps up to 10 automatic backups (daily, and before iCloud is turned on) inside the app's private storage on your device. They are not uploaded anywhere and are removed if you delete the app.
 - **Backups.** JSON backups you export are written where you choose and are not encrypted — store them safely.
 - **Deleting data.** Use *Settings → Erase all financial data* (with sync on, this also removes it from iCloud), or delete the app.
 

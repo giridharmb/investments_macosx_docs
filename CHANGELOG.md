@@ -1,5 +1,11 @@
 # Release notes
 
+## 1.4 — October 2026
+- **Safety:** automatic local backups (daily and before turning on iCloud, last 10 kept) with one-click restore; choosing to merge or keep separate when enabling iCloud on a device that already has data; onboarding sample data can no longer erase data arriving from iCloud; orphaned records are kept in a “Recovered data” profile; duplicate monthly net-worth points are merged.
+- **App lock:** now covers open sheets, the Settings window and the menu-bar panel; turning it off requires authentication; menu shortcuts are blocked while locked.
+- **Fixes:** Cancel now discards edits; age steppers no longer crash at the limits; negative amounts are rejected; AI Advisor no longer crashes when starting a new conversation mid-answer; W-2 scans read photos in the right orientation, parse PDF pages separately and report only boxes actually read; expense end dates save correctly; sliders scale for ₹/¥/AED; New Debt shortcut is now ⌥⌘L.
+- **Calculations:** India 87A marginal relief and no EPF deduction under the new regime; UK NI thresholds, 45% band and allowance taper; HSA/401(k) contributions no longer double-counted or dropped; debt interest insight uses each debt's own rate; payoff shows “Never” when payments don't cover interest; retirement strategies compared on identical market paths; recommended allocation always totals 100%.
+
 ## 1.3.3 — October 2026
 - Fixed a possible UI hang on macOS ("Geometry action is cycling"): chart legends now use a stable wrapping layout instead of nested lazy grids, and charts no longer update view state during layout.
 
