@@ -1,5 +1,8 @@
 # Release notes
 
+## 1.3.3 — October 2026
+- Fixed a possible UI hang on macOS ("Geometry action is cycling"): chart legends now use a stable wrapping layout instead of nested lazy grids, and charts no longer update view state during layout.
+
 ## 1.3.2 — October 2026
 - Charts on macOS: click-and-drag, trackpad sideways swipe and ⇧-scroll pan long charts (spending trend, net worth, projections); click to inspect; ‹ › Latest buttons. Fixed jitter and drift while scrolling.
 
