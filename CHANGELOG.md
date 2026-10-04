@@ -1,5 +1,8 @@
 # Release notes
 
+## 1.3.1 — October 2026
+- Charts: scrollable charts now scroll with swipe/trackpad and snap to months; tap/click inspects a point (tap again to dismiss). Fixed clipped first/last bars, misaligned month labels, inconsistent stacking colors, overflowing legends and a jagged retirement fan chart. Smoother interaction on Projections, Retirement, Wheel and Rent vs Buy (simulations are cached).
+
 ## 1.3 — October 2026
 - Menu bar commands with keyboard shortcuts (File ▸ New, Profile, Go, View, Help) and a menu-bar extra with live stats, profile switcher and quick-add expense.
 - Fixed signing: new iCloud container identifier.
