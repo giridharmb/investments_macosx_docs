@@ -30,6 +30,7 @@ WealthPilot turns your paycheck, rent, expenses, debts, savings and investments 
 | ✨ **AI Advisor** | Ask questions about *your* numbers using Apple's on-device Foundation Models. Falls back to rule-based analysis when unavailable. |
 | 👥 **Profiles** | Multiple independent plans — “Default” plus any number you create (blank, copied, or sample). Rename, restyle, duplicate, export, delete, and compare results side by side. |
 | ☁️ **iCloud sync & settings** | Optional sync across devices, Face ID / Touch ID app lock, privacy mode that masks amounts, reminders, JSON backup/restore and CSV export. |
+| ⌨️ **Menus & menu bar extra** | Full menu bar with keyboard shortcuts (New…, Profile switching ⌃⌘1–9, Go ⌘1–0, Hide Amounts, Import/Export) plus a menu-bar panel with live stats and quick-add expense. |
 | ✅ **Inputs checklist** | Shows which inputs are required, recommended or optional — and what each one unlocks. |
 
 ## Screenshots
