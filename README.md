@@ -28,6 +28,7 @@ WealthPilot turns your paycheck, rent, expenses, debts, savings and investments 
 | 🏡 **Rent vs Buy** | Net worth comparison with breakeven year. |
 | 🧮 **Calculators** | Loan/EMI with prepayment, SIP/compound with step-up, inflation, FIRE. |
 | ✨ **AI Advisor** | Ask questions about *your* numbers using Apple's on-device Foundation Models. Falls back to rule-based analysis when unavailable. |
+| 👥 **Profiles** | Multiple independent plans — “Default” plus any number you create (blank, copied, or sample). Rename, restyle, duplicate, export, delete, and compare results side by side. |
 | ☁️ **iCloud sync & settings** | Optional sync across devices, Face ID / Touch ID app lock, privacy mode that masks amounts, reminders, JSON backup/restore and CSV export. |
 | ✅ **Inputs checklist** | Shows which inputs are required, recommended or optional — and what each one unlocks. |
 
@@ -42,8 +43,8 @@ Screenshots are from the iPad build; the macOS app uses the same sidebar layout 
 | ![](screenshots/expenses.png) | ![](screenshots/taxes.png) | ![](screenshots/debts.png) |
 | **Investments** | **AI Advisor** | **Rent vs Buy** |
 | ![](screenshots/investments.png) | ![](screenshots/advisor.png) | ![](screenshots/rentVsBuy.png) |
-| **Settings & iCloud** | | |
-| ![](screenshots/settings.png) | | |
+| **Settings & iCloud** | **Profiles** | |
+| ![](screenshots/settings.png) | ![](screenshots/profiles.png) | |
 
 ## Requirements
 

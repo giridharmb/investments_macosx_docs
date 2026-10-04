@@ -13,6 +13,23 @@ Only four things are **required** for meaningful results:
 
 Everything else is **recommended** (debts, savings, investments, state) or **optional** (W-2, filing status, Social Security estimate, goals, other assets). The **Inputs Checklist** screen shows what's missing and what each input unlocks.
 
+## Profiles
+
+A **profile** is a complete, independent plan: its own country and assumptions, income, expenses, debts, savings, investments, goals, W-2s, net-worth history — and therefore its own results. Use them for:
+
+- separate people or households (you, parents, a client),
+- what-if scenarios (“Move to Texas”, “Retire at 50”, “Buy a house in 2028”),
+- a sandbox with sample data.
+
+**Default** is created automatically. It can be renamed and restyled but not deleted.
+
+- **Switch** from the profile button at the top of the sidebar, or from the Profiles screen. Every screen immediately shows the selected profile.
+- **Create** (Profiles → New profile): start *blank*, as a *copy of the current profile* (ideal for what-ifs), or with *sample data*. Pick a name, icon and color.
+- **Manage** from each profile card's ⋯ menu: rename & style, duplicate, export, delete (removes the profile and all its data).
+- **Compare**: with two or more profiles, the Profiles screen charts net worth, projected retirement balance and target, and lists key results side by side.
+- **Backups**: export one profile or all profiles. When importing, add the backup as a new profile or replace the current one.
+- **iCloud**: all profiles sync. Each device remembers which profile it has open.
+
 ## Screens
 
 ### Dashboard

@@ -25,3 +25,9 @@ Make sure every device is signed in to the same Apple Account with iCloud enable
 
 ### How do I start over?
 *Settings → Erase all financial data*, or *Load sample data* to explore.
+
+### How do I create a what-if scenario without touching my real plan?
+Profiles → New profile → *Copy of current profile*. Change anything in the copy; the original stays untouched. Compare both on the Profiles screen.
+
+### Why don't I see my data?
+Check the profile button at the top of the sidebar — you may be viewing a different profile.

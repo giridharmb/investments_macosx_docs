@@ -1,5 +1,9 @@
 # Release notes
 
+## 1.2 — October 2026
+- Profiles: multiple independent plans with their own inputs, results and history. Create blank / copied / sample profiles; rename, restyle, duplicate, export, delete; compare results side by side. Existing data becomes the “Default” profile.
+- Backups: export one or all profiles; import as a new profile or replace the current one.
+
 ## 1.1 — October 2026
 - iCloud sync across iPhone, iPad and Mac (private CloudKit database).
 - New Settings screen: Face ID / Touch ID app lock, privacy mode, app-switcher cover (iOS), theme, start screen, monthly & weekly reminders, AI toggle, simulation quality, JSON backup & restore, CSV export.
