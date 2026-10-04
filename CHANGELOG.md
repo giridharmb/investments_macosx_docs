@@ -1,5 +1,8 @@
 # Release notes
 
+## 1.3.2 — October 2026
+- Charts on macOS: click-and-drag, trackpad sideways swipe and ⇧-scroll pan long charts (spending trend, net worth, projections); click to inspect; ‹ › Latest buttons. Fixed jitter and drift while scrolling.
+
 ## 1.3.1 — October 2026
 - Charts: scrollable charts now scroll with swipe/trackpad and snap to months; tap/click inspects a point (tap again to dismiss). Fixed clipped first/last bars, misaligned month labels, inconsistent stacking colors, overflowing legends and a jagged retirement fan chart. Smoother interaction on Projections, Retirement, Wheel and Rent vs Buy (simulations are cached).
 
