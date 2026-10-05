@@ -1,5 +1,10 @@
 # Release notes
 
+## 1.5 — October 2026
+- **Your data is always kept on this device.** iCloud data and on-device data now live in separate stores. While sync is on, WealthPilot keeps a full copy on the device, so signing out of iCloud (or switching accounts) never removes your data — the app switches to the on-device copy and tells you.
+- Turning sync on copies this device's data to iCloud; turning it off copies your iCloud data back to the device. Every record has a stable identity, so repeated syncs never create duplicates.
+- Existing data is migrated automatically on first launch; the previous data file is kept as a fallback.
+
 ## 1.4 — October 2026
 - **Safety:** automatic local backups (daily and before turning on iCloud, last 10 kept) with one-click restore; choosing to merge or keep separate when enabling iCloud on a device that already has data; onboarding sample data can no longer erase data arriving from iCloud; orphaned records are kept in a “Recovered data” profile; duplicate monthly net-worth points are merged.
 - **App lock:** now covers open sheets, the Settings window and the menu-bar panel; turning it off requires authentication; menu shortcuts are blocked while locked.

@@ -20,6 +20,9 @@ Approximate 2026 defaults per country. Override inflation and expected return in
 ### iCloud sync isn't working
 Make sure every device is signed in to the same Apple Account with iCloud enabled, and sync is on in *Settings* on each device. The Settings screen shows the iCloud account state and the last sync time. Initial sync of a large history can take a few minutes.
 
+### I signed out of iCloud — is my data gone?
+No. WealthPilot keeps a full copy on each device. When it detects that you signed out (or switched to a different Apple Account) it switches to that copy and shows a message. Sign back in and turn sync on again in Settings to resume syncing.
+
 ### How do I move to a new device without iCloud?
 *Settings → Export backup (JSON)* on the old device, then *Restore from backup* on the new one.
 
