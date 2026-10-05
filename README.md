@@ -35,7 +35,7 @@ WealthPilot turns your paycheck, rent, expenses, debts, savings and investments 
 
 ## Screenshots
 
-Screenshots are from the iPad build; the macOS app uses the same sidebar layout and screens.
+Screenshots below are from the iPad build, followed by the macOS app.
 
 | Projections | Wheel strategy | Retirement |
 |---|---|---|
@@ -46,6 +46,18 @@ Screenshots are from the iPad build; the macOS app uses the same sidebar layout 
 | ![](screenshots/investments.png) | ![](screenshots/advisor.png) | ![](screenshots/rentVsBuy.png) |
 | **Settings & iCloud** | **Profiles** | |
 | ![](screenshots/settings.png) | ![](screenshots/profiles.png) | |
+
+### macOS
+
+| Dashboard | Dashboard charts | Projections |
+|---|---|---|
+| ![](screenshots/mac/01-dashboard.png) | ![](screenshots/mac/02-dashboard-charts.png) | ![](screenshots/mac/03-projections.png) |
+| **Expenses & Rent** | **Investments** | **Taxes** |
+| ![](screenshots/mac/04-expenses-and-rent.png) | ![](screenshots/mac/05-investments.png) | ![](screenshots/mac/06-taxes.png) |
+| **Retirement** | **Wheel strategy** | **Debts & EMIs** |
+| ![](screenshots/mac/07-retirement.png) | ![](screenshots/mac/08-wheel-strategy.png) | ![](screenshots/mac/09-debts-and-emis.png) |
+| **Profiles** | | |
+| ![](screenshots/mac/10-profiles.png) | | |
 
 ## Requirements
 
