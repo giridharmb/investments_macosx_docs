@@ -12,8 +12,10 @@ All figures are **estimates** for planning. Values marked “2026” reflect pub
 ## Taxes
 - **US federal 2026** brackets (IRS Rev. Proc. 2025-32), standard deduction $16,100 single / $32,200 joint / $24,150 HoH, child tax credit $2,200 with phase-out.
 - **FICA**: Social Security 6.2% to the $184,500 wage base; Medicare 1.45% + 0.9% above $200k/$250k. Self-employment tax 15.3% on 92.35% of net earnings.
-- **States**: simplified single-filer brackets (doubled for joint filers) and standard deductions; local/city taxes excluded.
-- **Other countries**: national brackets plus approximate regional and social-insurance rates (India new regime with 87A rebate and 4% cess; UK allowance taper; etc.).
+- **401(k)/HSA payroll contributions** are capped at the 2026 limits ($24,500 + catch-ups; HSA $4,400 self / $8,750 family + $1,000 at 55+).
+- **Social Security benefits**: taxable part from the IRS provisional-income test (0–85%); not taxed by states here.
+- **States**: simplified single-filer brackets (doubled for joint filers, except California's and Massachusetts' $1M surtax thresholds) and standard deductions; local/city taxes excluded.
+- **Other countries**: national brackets plus approximate regional and social-insurance rates (India new regime with 87A rebate, 10/15/25% surcharge above ₹50L/₹1Cr/₹2Cr and 4% cess; UK allowance taper; etc.).
 
 ## EMI & debt payoff
 - EMI = P·r·(1+r)ⁿ / ((1+r)ⁿ − 1), r = APR/12.
@@ -25,6 +27,7 @@ All figures are **estimates** for planning. Values marked “2026” reflect pub
 - Risk score 1–10 from portfolio volatility; “bad year” = expected return − 1.645σ.
 
 ## Projections & Monte Carlo
+- Starting balance = savings + investments; the return blends the investment mix with savings at the local savings rate.
 - Annual steps. Before retirement: balance × (1+r) + contribution × (1 + r/2), contributions growing with salary growth. After retirement: inflation-adjusted spending minus benefits is withdrawn.
 - Monte Carlo: 1,000 log-normal return paths (post-retirement volatility × 0.75). Success = money lasts to the plan-until age. Results shown in today's money.
 - Retirement target = (annual spending − benefits) ÷ safe withdrawal rate.

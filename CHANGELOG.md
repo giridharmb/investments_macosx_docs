@@ -1,5 +1,13 @@
 # Release notes
 
+## 1.6 — October 2026
+- **Calculations:** payroll 401(k) and HSA contributions are capped at the 2026 limits; Social Security benefits are taxed by the IRS formula (at most 85%) and not by your state; India surcharge on high incomes; California's and Massachusetts' $1M surtaxes are no longer doubled for joint filers; projections grow savings balances at savings-account rates (not stock returns), so plans holding lots of cash show lower — more realistic — results; alert thresholds scale for ₹/¥/AED; retirement "closing the gap" accounts for inflation.
+- **Fixes:** a crash on the Dashboard when an expense category named "Other" was among the top categories; an expense end date can no longer fall before its start; paid-off debts can be saved at 0; overdue goals say so; percentage fields are capped at 100%; tapping an empty month no longer highlights the next one.
+- **W-2 scanning:** tax years, ZIP codes and box numbers are no longer read as amounts; better matching for Box 1, the Box 15 state and the employer name; rotated PDF pages are read correctly; the tax year is read from the form.
+- **Safety:** an automatic backup is saved before restoring, erasing, loading sample data or deleting a profile, and a restore can't leave a profile half-empty. With iCloud on, records that arrive before their profile are no longer moved to "Recovered data". The on-device copy is only refreshed after the iCloud account is confirmed.
+- **AI Advisor:** stops generating when you leave the screen, and says when your data changed and it started a fresh conversation.
+- **Mac:** the Settings window (⌘,) can't be used while the app is locked; the app relocks when hidden, when the screen sleeps, or when you switch away with no main window open; profile switching is blocked while locked; long charts keep scrolling to new data and no longer crash when recent data is deleted.
+
 ## 1.5 — October 2026
 - **Your data is always kept on this device.** iCloud data and on-device data now live in separate stores. While sync is on, WealthPilot keeps a full copy on the device, so signing out of iCloud (or switching accounts) never removes your data — the app switches to the on-device copy and tells you.
 - Turning sync on copies this device's data to iCloud; turning it off copies your iCloud data back to the device. Every record has a stable identity, so repeated syncs never create duplicates.
