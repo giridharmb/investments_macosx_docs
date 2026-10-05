@@ -113,5 +113,6 @@ Open from the sidebar or with **⌘,**.
 | **On-device AI analysis** | Turn Apple Intelligence features off to use rule-based analysis only. |
 | **Monte Carlo scenarios** | 500 – 5,000 simulated markets for projections. |
 | **Data** | Export a JSON backup, restore from a backup, export expenses as CSV, load sample data, or erase everything. |
+| **Diagnostics** | Detailed logging, export diagnostic logs (errors, crashes, hangs, sync events — no amounts), show logs in Finder, clear logs. |
 
 Device-specific preferences (theme, lock, reminders) stay on each device; your financial data is what syncs.

@@ -2,6 +2,8 @@
 
 **Report a problem or request a feature:** open an issue in this repository.
 
+**Sending diagnostic logs:** reproduce the problem, then choose *Settings → Diagnostics → Export diagnostic logs…* (or *Help → Export Diagnostic Logs…*) and attach the text file to your issue. Turning on *Detailed logging* first records extra sync and data steps. Logs contain no amounts or notes.
+
 ### The AI Advisor says it's unavailable
 On-device AI requires a Mac with Apple silicon and Apple Intelligence enabled. If the model is still downloading, try again later. A rule-based analysis is shown meanwhile.
 

@@ -1,6 +1,7 @@
 # Release notes
 
 ## 1.6 — October 2026
+- **Diagnostic logs:** errors (with full details), crashes, UI hangs, iCloud sync failures and system warnings are recorded on the device for 14 days. Export them from *Settings → Diagnostics* or *Help → Export Diagnostic Logs…* to report a problem. No amounts or notes are logged.
 - **Calculations:** payroll 401(k) and HSA contributions are capped at the 2026 limits; Social Security benefits are taxed by the IRS formula (at most 85%) and not by your state; India surcharge on high incomes; California's and Massachusetts' $1M surtaxes are no longer doubled for joint filers; projections grow savings balances at savings-account rates (not stock returns), so plans holding lots of cash show lower — more realistic — results; alert thresholds scale for ₹/¥/AED; retirement "closing the gap" accounts for inflation.
 - **Fixes:** a crash on the Dashboard when an expense category named "Other" was among the top categories; an expense end date can no longer fall before its start; paid-off debts can be saved at 0; overdue goals say so; percentage fields are capped at 100%; tapping an empty month no longer highlights the next one.
 - **W-2 scanning:** tax years, ZIP codes and box numbers are no longer read as amounts; better matching for Box 1, the Box 15 state and the employer name; rotated PDF pages are read correctly; the tax year is read from the form.

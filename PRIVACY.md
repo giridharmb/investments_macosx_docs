@@ -11,6 +11,7 @@ WealthPilot is designed so your financial data never leaves your device.
 - **Documents and camera.** W-2 files, photos are read only to recognize text on-device and are not stored or transmitted. 
 - **Network.** Apart from Apple's iCloud sync (when you enable it), WealthPilot makes no network requests with your data.
 - **Automatic backups.** WealthPilot keeps up to 10 automatic backups (daily, and before iCloud is turned on) inside the app's private storage on your device. They are not uploaded anywhere and are removed if you delete the app.
+- **Diagnostic logs.** To help fix bugs, WealthPilot records errors, crashes, UI hangs, sync problems and the screens you visited in a log inside the app's private storage (last 14 days). Logs contain no amounts, names or notes and are never sent anywhere; you can export them yourself (*Settings → Diagnostics*) to share with support, or clear them.
 - **Backups.** JSON backups you export are written where you choose and are not encrypted — store them safely.
 - **Deleting data.** Use *Settings → Erase all financial data* (with sync on, this also removes it from iCloud), or delete the app.
 
