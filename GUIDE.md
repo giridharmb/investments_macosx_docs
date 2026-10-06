@@ -54,7 +54,8 @@ A **profile** is a complete, independent plan: its own country and assumptions, 
 
 ## Moving around
 - **Moving between screens:** buttons inside a screen that take you elsewhere (e.g. *Ask the AI advisor* on the Dashboard, *Add* in the Inputs checklist) open the new screen on top — **Back** returns to where you were.
-- **Your settings stay put:** sliders, pickers and what-ifs on every screen are remembered per profile, so leaving a screen (or the app) and coming back shows them as you left them.
+- **Your settings stay put:** sliders, pickers and what-ifs on every screen are saved with the profile as you change them — no Save button needed — so leaving a screen (or the app) and coming back shows them as you left them, and with iCloud sync they're on your other devices too. They're also in backups and copied with a profile. The note under the sliders says *Saving…*, then *Saved · in iCloud* (or *Saved on this device*).
+- **Scenarios:** on Projections, Rent vs Buy, each investment strategy and every calculator, open **Scenarios → Save as scenario…** to keep the current settings under a name, such as *Retire at 55* or *$600K house*. Pick a saved scenario from the same menu to switch back to it (the button shows which one you're on), or delete it. Saving with an existing name replaces that scenario.
 
 ## Screens
 

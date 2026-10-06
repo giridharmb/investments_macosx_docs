@@ -5,7 +5,7 @@ _Last updated: October 4, 2026_
 WealthPilot is designed so your financial data never leaves your device.
 
 - **No account, no server.** All data (income, expenses, debts, balances, W-2s, goals) is stored locally using Apple's SwiftData in the app's private container.
-- **Optional iCloud sync.** If you turn on *Settings → Sync with iCloud*, your data is stored in **your own private iCloud (CloudKit) database**, which only you can access. The developer cannot see it. Data is encrypted in transit and at rest by Apple; with Advanced Data Protection it is end-to-end encrypted. A full copy of your data is always kept on the device as well, so signing out of iCloud doesn't remove it from the device. Turn sync off at any time; delete iCloud data via your device's iCloud settings (Manage Storage).
+- **Optional iCloud sync.** If you turn on *Settings → Sync with iCloud*, your data — including screen settings and saved scenarios — is stored in **your own private iCloud (CloudKit) database**, which only you can access. The developer cannot see it. Data is encrypted in transit and at rest by Apple; with Advanced Data Protection it is end-to-end encrypted. A full copy of your data is always kept on the device as well, so signing out of iCloud doesn't remove it from the device. Turn sync off at any time; delete iCloud data via your device's iCloud settings (Manage Storage).
 - **No tracking or analytics.** The app contains no third-party SDKs, advertising, or analytics.
 - **On-device AI.** The AI Advisor and W-2 extraction use Apple's on-device Foundation Models. Prompts and responses are processed on your device.
 - **Documents and camera.** W-2 files, photos are read only to recognize text on-device and are not stored or transmitted. 
