@@ -1,5 +1,14 @@
 # Release notes
 
+## 1.7 — October 2026
+- **Budget & Bills** (new screen under Cash Flow): set a monthly limit per spending category and see this month's progress, what's left, and where you'll land at your current pace. *Suggest from the last 3 months* fills in budgets for the categories you control (groceries, dining, shopping, travel…). Below that, every bill, EMI and paycheck coming up in the next 2 weeks, 30 days or 60 days, with a forecast of your checking balance and a warning if it would go negative.
+- **Financial health score** on the Dashboard: 0–100 across savings rate, emergency fund, debt, housing cost, cash flow, retirement odds and protection, with your biggest opportunity called out.
+- **Tax-loss harvesting** in Investments: holdings worth less than you paid in taxable accounts, the US $3,000 ordinary-income offset, estimated tax saved and the amount carried forward, with a wash-sale reminder.
+- **Life insurance calculator** in Calculators (DIME method), prefilled from your income, debts and savings.
+- New insights: over budget or on pace to go over, and losses you could harvest.
+- **Diagnostic reports (optional, off by default):** *Settings → Diagnostics → Send diagnostic reports to the developer* sends new log entries and Apple's crash reports through iCloud so problems can be fixed without you exporting anything. See the privacy policy.
+- Budgets are saved with each profile, so they sync, back up and copy with it.
+
 ## 1.6 — October 2026
 - **Fixed: new entries weren't saved.** Adding an income, expense, debt, savings account, goal, asset, holding or W-2 could silently do nothing (the editor treated the new item as an existing one), so charts never changed. Amount fields now also take effect as you type — you no longer need to press Return before Save.
 - **Diagnostic logs:** errors (with full details), crashes, UI hangs, iCloud sync failures and system warnings are recorded on the device for 14 days. Export them from *Settings → Diagnostics* or *Help → Export Diagnostic Logs…* to report a problem. No amounts or notes are logged.

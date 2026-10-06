@@ -55,7 +55,7 @@ A **profile** is a complete, independent plan: its own country and assumptions, 
 ## Screens
 
 ### Dashboard
-KPI tiles, *Where your paycheck goes* (donut from gross pay: taxes, housing, living costs, EMIs, retirement, benefits, saving, unassigned), top spending categories, a 12-month stacked spending trend (scroll horizontally; tap a bar for the per-category tooltip), net worth history (recorded monthly), a retirement fan chart and the top savings opportunities with $/month impact.
+KPI tiles, *Where your paycheck goes* (donut from gross pay: taxes, housing, living costs, EMIs, retirement, benefits, saving, unassigned), top spending categories, a 12-month stacked spending trend (scroll horizontally; tap a bar for the per-category tooltip), the **financial health score** (0–100, with points per area and your biggest opportunity), net worth history (recorded monthly), a retirement fan chart and the top savings opportunities with $/month impact.
 
 ### Income & Paycheck
 Add salary (any pay frequency), self-employment, rental, dividends, pension or other income. For salary enter your 401(k)/pension % (pre-tax or Roth), employer match (e.g. 100% up to 6%), and per-paycheck deductions (health premium, HSA, FSA/commuter, post-tax). The paycheck breakdown chart shows exactly where each paycheck goes.
@@ -69,6 +69,10 @@ Import from PDF or image file, or Photos. Text is recognized with Apple Vision a
 ### Expenses & Rent
 Recurring bills (with frequency, start/end dates) and one-off purchases. Mark items essential vs. discretionary. The Rent card shows housing as % of gross pay, the 30% affordability limit, your state's rough median rent and 5-year rent cost. The 50/30/20 card compares needs/wants/savings with targets.
 
+### Budget & Bills
+**Budgets:** use the toolbar's *Edit budgets* to set a monthly limit per category (leave 0 to skip one), or *Suggest from the last 3 months* to start from your averages for flexible spending. Each bar shows spent vs. limit; the tick marks how far through the month you are, so a bar past the tick is ahead of pace. Recurring bills count in full for the month; one-off purchases count as logged. Orange means you're on pace to exceed the budget, red means you already have.
+**Upcoming & checking forecast:** paychecks (after tax and deductions), recurring bills and EMIs by date for the next 2 weeks, 30 days or 60 days. The chart starts from your checking accounts' balance and steps through each day; the lowest point is shown, with a warning if it goes below zero. Transfers to savings and investments aren't included because their dates aren't known.
+
 ### Debts & EMIs
 Each loan's EMI is computed from balance, APR and remaining months (or enter your actual payment). Tap a debt to see its amortization (principal vs. interest by year with the remaining balance). *Payoff strategy* compares minimum payments, Avalanche (highest rate first) and Snowball (smallest balance first) with an adjustable extra payment.
 
@@ -76,7 +80,7 @@ Each loan's EMI is computed from balance, APR and remaining months (or enter you
 Accounts with APY and monthly contributions; flag your emergency fund. A 5-year chart compares your current rates with the best typical high-yield rate. Goals show progress and the monthly saving needed to hit the target date.
 
 ### Investments
-Holdings by account type (401(k), IRA, Roth, brokerage, HSA, 529, pension, crypto, real estate) and asset class. Shows current vs. recommended allocation (age- and risk-based glide path), rebalancing suggestions, a risk/return scatter vs. model portfolios, and the prioritized contribution ladder (emergency fund → match → high-interest debt → HSA → IRA → 401(k) max → taxable).
+Holdings by account type (401(k), IRA, Roth, brokerage, HSA, 529, pension, crypto, real estate) and asset class. Shows current vs. recommended allocation (age- and risk-based glide path), rebalancing suggestions, a risk/return scatter vs. model portfolios, tax-loss harvesting candidates (taxable holdings below cost, with the estimated tax saved), and the prioritized contribution ladder (emergency fund → match → high-interest debt → HSA → IRA → 401(k) max → taxable).
 
 ### Projections
 Year-by-year projection plus a 1,000-scenario Monte Carlo fan chart in today's money. What-if sliders: extra monthly investing, retirement age, return, retirement spending, inflation. Milestone table every 5 years.
@@ -91,7 +95,7 @@ Model the options “wheel”: sell a cash-secured put; if assigned, sell covere
 Compares the net worth of buying (equity after selling costs + invested savings) against renting and investing the difference, with a breakeven year.
 
 ### Calculators
-Loan/EMI with prepayment, SIP/compound growth with annual step-up, inflation, and FIRE (years to financial independence).
+Loan/EMI with prepayment, SIP/compound growth with annual step-up, inflation, FIRE (years to financial independence), and life insurance needs (income to replace, mortgage, other debts, education and final expenses, minus savings and existing cover — prefilled from your plan).
 
 ### AI Advisor
 Ask natural-language questions such as *“Where am I overspending?”* or *“Should I pay off debt or invest?”*. A compact summary of your numbers (viewable under *What the advisor sees*) is given to Apple's on-device language model. Nothing is sent to a server. If Apple Intelligence is unavailable, a rule-based report is shown instead.

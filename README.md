@@ -14,19 +14,20 @@ WealthPilot turns your paycheck, rent, expenses, debts, savings and investments 
 
 | | |
 |---|---|
-| 📊 **Dashboard** | Net worth, take-home pay, spending, savings rate, emergency-fund months, retirement odds and effective tax rate at a glance. |
+| 📊 **Dashboard** | Net worth, take-home pay, spending, savings rate, emergency-fund months, retirement odds, effective tax rate and a 0–100 financial health score at a glance. |
 | 💼 **Paycheck** | Gross → 401(k)/pension → health/HSA → taxes → net, per paycheck. Employer-match gap detection. |
 | 🏛 **Taxes** | 2026 US federal brackets, FICA, all 50 states + DC (approx.), child tax credit; simplified national systems for India, UK, Canada, Germany, Australia, Singapore, UAE and Japan. |
 | 🧾 **W-2 import** | Scan a W-2 (PDF or image file, or Photos). Vision OCR + on-device AI extract the boxes; you review before saving. Predicts refund or amount owed. |
 | 🏠 **Expenses & Rent** | 22 categories, recurring and one-off spending, rent affordability (30% rule), state median-rent comparison, 50/30/20 check. |
+| 📅 **Budget & Bills** | Monthly category budgets with pace tracking and suggestions; upcoming bills, EMIs and paychecks with a checking-balance forecast. |
 | 💳 **Debts & EMIs** | EMI calculation, amortization charts, Avalanche vs Snowball payoff with extra-payment slider. |
 | 🐷 **Savings & Goals** | Emergency fund, high-yield optimization, goals with the monthly amount needed. |
-| 📈 **Investments** | Allocation vs an age/risk glide path, expected return, volatility, risk score, fee drag, “where should my next dollar go” ladder. |
+| 📈 **Investments** | Allocation vs an age/risk glide path, expected return, volatility, risk score, fee drag, “where should my next dollar go” ladder, tax-loss harvesting. |
 | 🔮 **Projections** | Deterministic + 1,000-path Monte Carlo fan charts, FI age, sustainable spending, what-if sliders. |
 | 🏖 **Retirement** | Readiness gauge, income by source, withdrawal strategies (4% rule, Guardrails, percent-of-portfolio, floor & ceiling), bucket strategy. |
 | 🔁 **Wheel strategy** | Cash-secured puts → covered calls, Black-Scholes premiums, Monte Carlo vs buy-and-hold, options-income sleeve for retirement. |
 | 🏡 **Rent vs Buy** | Net worth comparison with breakeven year. |
-| 🧮 **Calculators** | Loan/EMI with prepayment, SIP/compound with step-up, inflation, FIRE. |
+| 🧮 **Calculators** | Loan/EMI with prepayment, SIP/compound with step-up, inflation, FIRE, life insurance needs. |
 | ✨ **AI Advisor** | Ask questions about *your* numbers using Apple's on-device Foundation Models. Falls back to rule-based analysis when unavailable. |
 | 👥 **Profiles** | Multiple independent plans — “Default” plus any number you create (blank, copied, or sample). Rename, restyle, duplicate, export, delete, and compare results side by side. |
 | ☁️ **iCloud sync & settings** | Optional sync across devices, Face ID / Touch ID app lock, privacy mode that masks amounts, reminders, JSON backup/restore and CSV export. |

@@ -17,6 +17,20 @@ All figures are **estimates** for planning. Values marked “2026” reflect pub
 - **States**: simplified single-filer brackets (doubled for joint filers, except California's and Massachusetts' $1M surtax thresholds) and standard deductions; local/city taxes excluded.
 - **Other countries**: national brackets plus approximate regional and social-insurance rates (India new regime with 87A rebate, 10/15/25% surcharge above ₹50L/₹1Cr/₹2Cr and 4% cess; UK allowance taper; etc.).
 
+## Budgets & bills
+- Spent this month = recurring expenses active at any point this month (monthly equivalent) + one-off purchases dated this month. Projected = recurring + one-off × (days in month ÷ days elapsed).
+- Suggested budget = average of the last three complete months for flexible categories, rounded up to the next 10.
+- Bill dates repeat from each item's start date by its frequency (month-end dates stay at month end). Paychecks are gross × (annual take-home ÷ annual gross). EMIs repeat monthly from the loan's start date until its remaining term ends.
+
+## Financial health score
+Points out of 100: savings rate (20, full at 20% of gross), emergency fund (20, full at 3 months of essentials and debt payments — 6 with dependents or self-employment), debt (10 for debt-to-income from 45% down to 15%, plus 5 with no debt at 8%+ APR), housing (10, full at ≤28% of gross, none at 50%), cash flow (10, full when spending fits take-home), retirement (15, full at 85% Monte Carlo success), protection (10 with no dependents or insurance on file, 3 otherwise). Linear in between.
+
+## Tax-loss harvesting
+Candidates are brokerage and crypto holdings at least 100 (local currency) below cost basis. US estimate: up to $3,000 of net loss offsets ordinary income at your combined marginal rate; the rest carries forward. Realized gains, which losses offset first, aren't known to the app, so the saving shown is a floor.
+
+## Life insurance (DIME)
+Need = non-mortgage debt + annual income × years + mortgage + children × education cost + final expenses − savings and investments − existing cover (never below 0).
+
 ## EMI & debt payoff
 - EMI = P·r·(1+r)ⁿ / ((1+r)ⁿ − 1), r = APR/12.
 - Avalanche/Snowball: all minimums paid; the extra budget plus freed-up minimums go to the target debt.
