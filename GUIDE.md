@@ -88,8 +88,13 @@ Year-by-year projection plus a 1,000-scenario Monte Carlo fan chart in today's m
 ### Retirement
 Readiness (projected vs. needed), budget split between benefits and portfolio, income-by-source chart, and a comparison of withdrawal strategies with success rates and spending ranges. The bucket strategy splits the nest egg into cash (years 1–2), bonds (3–10) and growth (11+).
 
-### Wheel Strategy
-Model the options “wheel”: sell a cash-secured put; if assigned, sell covered calls above your cost basis; if called away, start again. Adjust price, implied volatility, strike distances, days to expiry, drift, rate and horizon. See per-trade quotes (premium, delta, assignment probability, annualized return), a Monte Carlo comparison against buy-and-hold, drawdowns, and an estimate of monthly income from an options sleeve of your portfolio. Read the risk notes — the wheel keeps most of the stock's downside while capping its upside.
+### Investment Strategies
+Pick the approach you want to follow — tap a card to make it *your strategy* (remembered per profile on this device). Each one opens prefilled from your plan, and every slider is yours to change.
+
+- **Wheel (options income).** Model the options “wheel”: sell a cash-secured put; if assigned, sell covered calls above your cost basis; if called away, start again. Adjust price, implied volatility, strike distances, days to expiry, drift, rate and horizon. See per-trade quotes (premium, delta, assignment probability, annualized return), a Monte Carlo comparison against buy-and-hold, drawdowns, and an estimate of monthly income from an options sleeve of your portfolio. Read the risk notes — the wheel keeps most of the stock's downside while capping its upside.
+- **Dollar-cost averaging.** Should a lump sum (a bonus, inheritance, idle cash) go in today or in equal monthly slices? Set the amount (prefilled from cash earning little), how many months to spread it over, the horizon, expected return, volatility and what the waiting cash earns. 800 simulated markets show the median and bad-case (10th percentile) results for both, and how often investing at once ends ahead.
+- **Dividend growth.** Start amount (your taxable brokerage), monthly investment, starting yield, dividend growth, share-price growth, tax on dividends and reinvesting (DRIP). See after-tax income by year, portfolio value, yield on cost, and the year dividends would cover your spending — today's spending grown with inflation.
+- **Three-fund index portfolio.** A US total-market fund, an international fund and a bond fund at weights you choose (prefilled from your age/risk glide path). Compares never rebalancing, rebalancing yearly and rebalancing when any fund drifts 5 points, on the same simulated markets: median and bad-case value, worst drop and where your stock share ends up. *What fees cost you* compares index-fund fees with your current funds over the same years.
 
 ### Rent vs Buy
 Compares the net worth of buying (equity after selling costs + invested savings) against renting and investing the difference, with a breakeven year.

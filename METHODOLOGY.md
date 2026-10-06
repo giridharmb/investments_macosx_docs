@@ -49,6 +49,18 @@ Need = non-mortgage debt + annual income × years + mortgage + children × educa
 ## Withdrawal strategies
 Simulated in real terms: fixed 4% rule; Guyton-Klinger-style guardrails (±10% adjustments when the withdrawal rate drifts 20% from target); percent-of-portfolio; floor (85%) and ceiling (125%).
 
+## Strategy simulations (shared market model)
+Monthly growth = exp(μ/12 + σ/√12·z) with μ = ln(1 + r) − σ²/2, so the average annual return equals r. Simulations use a fixed seed, so the same inputs always give the same answer.
+
+## Dollar-cost averaging vs lump sum
+800 paths. Lump sum: everything invested in month 0. DCA: amount ÷ months invested at the start of each month; the rest earns the cash yield. Compared on the same path; “lump sum ends ahead” = share of paths where it finishes higher.
+
+## Dividend growth
+Steady (not random) yearly projection: price grows at the share-price rate, dividend per share at the dividend-growth rate. Contributions buy at the year's average price and earn half a year of dividends. Dividends are taxed at the rate you set and, with DRIP, reinvested. Yield on cost = after-tax income ÷ money invested. “Covers your spending” compares income with today's spending grown at your inflation rate.
+
+## Three-fund portfolio
+500 paths of correlated monthly returns for US stocks, international stocks and bonds (same assumptions and correlations as the allocation engine), minus the fund fee. Contributions go in at target weights. All three rules — never, every 12 months, or whenever a fund is more than 5 points from target — run on the same paths. Worst drop = largest peak-to-trough fall of the total value. The fee comparison uses steady returns at the blended expected return minus each fee.
+
 ## Wheel strategy
 - Premiums from Black-Scholes using implied volatility; prices simulated with geometric Brownian motion at realized volatility = IV − 2 points (volatility risk premium).
 - Puts struck X% below spot; calls struck X% above max(spot, cost basis). Idle collateral earns the risk-free rate.

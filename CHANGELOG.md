@@ -6,6 +6,7 @@
 - **Tax-loss harvesting** in Investments: holdings worth less than you paid in taxable accounts, the US $3,000 ordinary-income offset, estimated tax saved and the amount carried forward, with a wash-sale reminder.
 - **Life insurance calculator** in Calculators (DIME method), prefilled from your income, debts and savings.
 - New insights: over budget or on pace to go over, and losses you could harvest.
+- **Investment Strategies** (replaces *Wheel Strategy*): pick your approach — the options wheel, **dollar-cost averaging** (lump sum vs monthly slices over 800 simulated markets), **dividend growth** (after-tax income by year, yield on cost, the year dividends cover your inflation-adjusted spending) or a **three-fund index portfolio** (never vs yearly vs 5-point-drift rebalancing on the same markets, plus what fees cost). Your pick is remembered per profile; simulations run in the background so sliders stay smooth.
 - **Diagnostic reports (optional, off by default):** *Settings → Diagnostics → Send diagnostic reports to the developer* sends new log entries and Apple's crash reports through iCloud so problems can be fixed without you exporting anything. See the privacy policy.
 - Budgets are saved with each profile, so they sync, back up and copy with it.
 
