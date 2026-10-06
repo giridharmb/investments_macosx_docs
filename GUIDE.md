@@ -48,14 +48,14 @@ A **profile** is a complete, independent plan: its own country and assumptions, 
 - **iCloud**: all profiles sync. Each device remembers which profile it has open.
 
 ## Reading the charts
-- **Long charts** (spending trend, net worth, projections) show a window of history. **Drag** with the mouse, **swipe sideways** on the trackpad or hold **⇧ while scrolling** to move through time, or use the **‹ › Latest** buttons under the chart. Bar charts snap to whole months.
+- **Long charts** (net worth, projections) show a window of history. **Drag** with the mouse, **swipe sideways** on the trackpad or hold **⇧ while scrolling** to move through time, or use the **‹ › Latest** buttons under the chart.
 - **Click** a bar or point to see its details; click it again (or move the chart) to dismiss.
 - Shorter charts: drag across them to scrub through values.
 
 ## Screens
 
 ### Dashboard
-KPI tiles, *Where your paycheck goes* (donut from gross pay: taxes, housing, living costs, EMIs, retirement, benefits, saving, unassigned), top spending categories, a 12-month stacked spending trend (scroll horizontally; tap a bar for the per-category tooltip), the **financial health score** (0–100, with points per area and your biggest opportunity), net worth history (recorded monthly), a retirement fan chart and the top savings opportunities with $/month impact.
+KPI tiles, *Where your paycheck goes* (donut from gross pay: taxes, housing, living costs, EMIs, retirement, benefits, saving, unassigned), top spending categories, a **spending trend** you can shape (pick 1M, 3M, 6M, YTD, 1Y, 2Y or your own dates; group by day, week, two weeks or month; stack by category or show totals; tap **Flexible** to hide fixed bills like rent, or a category to see only that; tap a bar for its breakdown and how it compares with your average), the **financial health score** (0–100, with points per area and your biggest opportunity), net worth history (recorded monthly), a retirement fan chart and the top savings opportunities with $/month impact.
 
 ### Income & Paycheck
 Add salary (any pay frequency), self-employment, rental, dividends, pension or other income. For salary enter your 401(k)/pension % (pre-tax or Roth), employer match (e.g. 100% up to 6%), and per-paycheck deductions (health premium, HSA, FSA/commuter, post-tax). The paycheck breakdown chart shows exactly where each paycheck goes.

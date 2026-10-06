@@ -14,7 +14,7 @@ WealthPilot turns your paycheck, rent, expenses, debts, savings and investments 
 
 | | |
 |---|---|
-| 📊 **Dashboard** | Net worth, take-home pay, spending, savings rate, emergency-fund months, retirement odds, effective tax rate and a 0–100 financial health score at a glance. |
+| 📊 **Dashboard** | Net worth, take-home pay, spending, savings rate, emergency-fund months, retirement odds, effective tax rate a 0–100 financial health score, and a spending trend by day, week, two weeks or month over any date range. |
 | 💼 **Paycheck** | Gross → 401(k)/pension → health/HSA → taxes → net, per paycheck. Employer-match gap detection. |
 | 🏛 **Taxes** | 2026 US federal brackets, FICA, all 50 states + DC (approx.), child tax credit; simplified national systems for India, UK, Canada, Germany, Australia, Singapore, UAE and Japan. |
 | 🧾 **W-2 import** | Scan a W-2 (PDF or image file, or Photos). Vision OCR + on-device AI extract the boxes; you review before saving. Predicts refund or amount owed. |

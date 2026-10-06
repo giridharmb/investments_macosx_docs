@@ -13,8 +13,8 @@ No — they're estimates using simplified rules (standard deduction, major credi
 ### The W-2 scan missed some values
 Scan quality matters. Use a flat, well-lit image or the original PDF, then correct values on the review screen before saving.
 
-### Why does my spending trend look flat?
-Recurring expenses are the same each month. Log one-off purchases to see real variation.
+### Why does my spending trend look flat — or spiky?
+Recurring everyday budgets (groceries, dining, transport, shopping…) are spread evenly across the days, so they look flat; log one-off purchases to see real variation. Bills such as rent land on their due date, so daily and weekly views show a spike that day. Tap **Flexible** to leave fixed bills out.
 
 ### Where are the interest rates and inflation from?
 Approximate 2026 defaults per country. Override inflation and expected return in *Profile & Assumptions*.
