@@ -9,6 +9,7 @@
 - **Investment Strategies** (replaces *Wheel Strategy*): pick your approach — the options wheel, **dollar-cost averaging** (lump sum vs monthly slices over 800 simulated markets), **dividend growth** (after-tax income by year, yield on cost, the year dividends cover your inflation-adjusted spending) or a **three-fund index portfolio** (never vs yearly vs 5-point-drift rebalancing on the same markets, plus what fees cost). Your pick is remembered per profile; simulations run in the background so sliders stay smooth.
 - **Diagnostic reports (optional, off by default):** *Settings → Diagnostics → Send diagnostic reports to the developer* sends new log entries and Apple's crash reports through iCloud so problems can be fixed without you exporting anything. See the privacy policy.
 - Budgets are saved with each profile, so they sync, back up and copy with it.
+- **AI Advisor:** 39 starter questions (31 new) in 8 categories. Each question comes with exact figures computed by the app, so the on-device model explains your real numbers instead of doing arithmetic; without Apple Intelligence you get a rule-based answer to the specific question, not a generic report. Typed questions are matched to the closest topic.
 
 ## 1.6 — October 2026
 - **Fixed: new entries weren't saved.** Adding an income, expense, debt, savings account, goal, asset, holding or W-2 could silently do nothing (the editor treated the new item as an existing one), so charts never changed. Amount fields now also take effect as you type — you no longer need to press Return before Save.

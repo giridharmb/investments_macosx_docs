@@ -28,7 +28,7 @@ WealthPilot turns your paycheck, rent, expenses, debts, savings and investments 
 | 🧭 **Investment strategies** | Pick one: the options **wheel** (Black-Scholes premiums, Monte Carlo vs buy-and-hold), **dollar-cost averaging** vs lump sum, **dividend growth** income, or a **three-fund index portfolio** with rebalancing rules — each prefilled from your plan. |
 | 🏡 **Rent vs Buy** | Net worth comparison with breakeven year. |
 | 🧮 **Calculators** | Loan/EMI with prepayment, SIP/compound with step-up, inflation, FIRE, life insurance needs. |
-| ✨ **AI Advisor** | Ask questions about *your* numbers using Apple's on-device Foundation Models. Falls back to rule-based analysis when unavailable. |
+| ✨ **AI Advisor** | Ask questions about *your* numbers using Apple's on-device Foundation Models — or pick from 39 starter questions across spending, saving, debt, investing, retirement, taxes and big decisions. Answers quote figures the app computes itself; a rule-based answer is shown when Apple Intelligence is unavailable. |
 | 👥 **Profiles** | Multiple independent plans — “Default” plus any number you create (blank, copied, or sample). Rename, restyle, duplicate, export, delete, and compare results side by side. |
 | ☁️ **iCloud sync & settings** | Optional sync across devices, Face ID / Touch ID app lock, privacy mode that masks amounts, reminders, JSON backup/restore and CSV export. |
 | ⌨️ **Menus & menu bar extra** | Full menu bar with keyboard shortcuts (New…, Profile switching ⌃⌘1–9, Go ⌘1–0, Hide Amounts, Import/Export) plus a menu-bar panel with live stats and quick-add expense. |
