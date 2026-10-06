@@ -25,6 +25,7 @@ WealthPilot turns your paycheck, rent, expenses, debts, savings and investments 
 | 📈 **Investments** | Allocation vs an age/risk glide path, expected return, volatility, risk score, fee drag, “where should my next dollar go” ladder, tax-loss harvesting. |
 | 🔮 **Projections** | Deterministic + 1,000-path Monte Carlo fan charts, FI age, sustainable spending, what-if sliders. |
 | 🏖 **Retirement** | Readiness gauge, income by source, withdrawal strategies (4% rule, Guardrails, percent-of-portfolio, floor & ceiling), bucket strategy. |
+| 🗺 **Money Map** | Sandbox canvas: named investment boxes linked to your pay and savings (and to each other), with a time slider showing what they could grow into and pay. |
 | 🧭 **Investment strategies** | Follow several at once and map your holdings to each — every strategy is modeled with its own holdings' balance, contributions and fees. Mix and match where new money goes and see all of them projected together. Choose from the options **wheel** (Black-Scholes premiums, Monte Carlo vs buy-and-hold), **dollar-cost averaging** vs lump sum, **dividend growth** income, a **three-fund index portfolio** with rebalancing rules, a **target-date glide path**, **core & satellite**, a **bond / CD ladder** or the **All-Weather / Permanent** portfolio — each prefilled from your plan. |
 | 🏡 **Rent vs Buy** | Net worth comparison with breakeven year. |
 | 🧮 **Calculators** | Loan/EMI with prepayment, SIP/compound with step-up, inflation, FIRE, life insurance needs. |
