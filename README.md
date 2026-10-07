@@ -15,21 +15,26 @@ WealthPilot turns your paycheck, rent, expenses, debts, savings and investments 
 | | |
 |---|---|
 | 📊 **Dashboard** | Net worth, take-home pay, spending, savings rate, emergency-fund months, retirement odds, effective tax rate a 0–100 financial health score, and a spending trend by day, week, two weeks or month over any date range. |
-| 💼 **Paycheck** | Gross → 401(k)/pension → health/HSA → taxes → net, per paycheck. Employer-match gap detection. |
+| 💼 **Income & paycheck** | Any income — salary, part-time or gig work, bonuses, freelance, stock sales / RSUs, rent, dividends, pensions, gifts — regular (with start and end dates) or one time. Gross → 401(k)/pension → health/HSA → taxes → net, per paycheck. Employer-match gap detection. |
 | 🏛 **Taxes** | 2026 US federal brackets, FICA, all 50 states + DC (approx.), child tax credit; simplified national systems for India, UK, Canada, Germany, Australia, Singapore, UAE and Japan. |
 | 🧾 **W-2 import** | Scan a W-2 (PDF or image file, or Photos). Vision OCR + on-device AI extract the boxes; you review before saving. Predicts refund or amount owed. |
-| 🏠 **Expenses & Rent** | 22 categories, recurring and one-off spending, rent affordability (30% rule), state median-rent comparison, 50/30/20 check. |
+| 🏠 **Expenses & Rent** | 22 built-in categories plus your own, recurring and one-off spending, rent affordability (30% rule), state median-rent comparison, 50/30/20 check. |
+| 🏷 **Your categories** | Create, rename and delete your own income and spending categories; each rolls up to a built-in one so budgets and taxes keep working. |
 | 📅 **Budget & Bills** | Monthly category budgets with pace tracking and suggestions; upcoming bills, EMIs and paychecks with a checking-balance forecast. |
 | 💳 **Debts & EMIs** | EMI calculation, amortization charts, Avalanche vs Snowball payoff with extra-payment slider. |
 | 🐷 **Savings & Goals** | Emergency fund, high-yield optimization, goals with the monthly amount needed. |
-| 📈 **Investments** | Allocation vs an age/risk glide path, expected return, volatility, risk score, fee drag, “where should my next dollar go” ladder, tax-loss harvesting. |
-| 🔮 **Projections** | Deterministic + 1,000-path Monte Carlo fan charts, FI age, sustainable spending, what-if sliders. |
+| 📈 **Investments** | Allocation vs an age/risk glide path, expected return, volatility, risk score, fee drag, “where should my next dollar go” ladder, tax-loss harvesting. Optional ticker and share count per holding with one-tap price refresh; holdings, accounts and assets in 30 currencies. |
+| 🏢 **Real Estate** | Renting or owning where you live, plus rentals, second homes and land with their loans: cash flow, cap rate, cash-on-cash, total return and 10-year equity. |
+| 🔮 **Projections** | Deterministic + 1,000-path Monte Carlo fan charts, FI age, sustainable spending, what-if sliders and a life-events timeline. |
+| 🗓 **Life Events** | A home, a baby, college, a sabbatical, an inheritance… on a timeline, with your plan with vs without them, yearly cash flow, cost by kind and each event's effect at retirement. |
 | 🏖 **Retirement** | Readiness gauge, income by source, withdrawal strategies (4% rule, Guardrails, percent-of-portfolio, floor & ceiling), bucket strategy. |
 | 🗺 **Money Map** | Sandbox canvas: named investment boxes linked to your pay and savings (and to each other), with a time slider showing what they could grow into and pay. |
 | 🧭 **Investment strategies** | Follow several at once and map your holdings to each — every strategy is modeled with its own holdings' balance, contributions and fees. Mix and match where new money goes and see all of them projected together. Choose from the options **wheel** (Black-Scholes premiums, Monte Carlo vs buy-and-hold), **dollar-cost averaging** vs lump sum, **dividend growth** income, a **three-fund index portfolio** with rebalancing rules, a **target-date glide path**, **core & satellite**, a **bond / CD ladder** or the **All-Weather / Permanent** portfolio — each prefilled from your plan. |
 | 🏡 **Rent vs Buy** | Net worth comparison with breakeven year. |
 | 🧮 **Calculators** | Loan/EMI with prepayment, SIP/compound with step-up, inflation, FIRE, life insurance needs. |
 | ✨ **AI Advisor** | Ask questions about *your* numbers using Apple's on-device Foundation Models — or pick from 120 starter questions across spending, saving, debt, investing, retirement, taxes, income & career, family, wealth and big decisions. Answers quote figures the app computes itself; a rule-based answer is shown when Apple Intelligence is unavailable. |
+| 🏡 **Household** | Yours, mine and ours: who owns each income, account and debt, each person's net worth, who pays the shared bills — and sharing the household with a partner by file. |
+| 📰 **Weekly digest & PDF report** | A weekly summary in the app and as a notification, and a four-page PDF report to keep or share. |
 | 👥 **Profiles** | Multiple independent plans — “Default” plus any number you create (blank, copied, or sample). Rename, restyle, duplicate, export, delete, and compare results side by side. |
 | ☁️ **iCloud sync & settings** | Optional sync across devices, Face ID / Touch ID app lock, privacy mode that masks amounts, reminders, JSON backup/restore and CSV export. |
 | ⌨️ **Menus & menu bar extra** | Full menu bar with keyboard shortcuts (New…, Profile switching ⌃⌘1–9, Go ⌘1–0, Hide Amounts, Import/Export) plus a menu-bar panel with live stats and quick-add expense. |

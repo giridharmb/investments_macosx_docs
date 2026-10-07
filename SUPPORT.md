@@ -34,5 +34,23 @@ No. WealthPilot keeps a full copy on each device. When it detects that you signe
 ### How do I create a what-if scenario without touching my real plan?
 Profiles → New profile → *Copy of current profile*. Change anything in the copy; the original stays untouched. Compare both on the Profiles screen.
 
+### Can WealthPilot connect to my bank?
+No — by design. You enter balances, income and spending yourself (or import a backup), so nothing about your accounts ever goes to a bank aggregator. For holdings, add a ticker and share count and use *Refresh prices* to keep values current.
+
+### A ticker's price won't load
+Check the symbol as Yahoo Finance writes it — outside the US add the exchange suffix (e.g. `SHEL.L`, `RELIANCE.NS`, `SAP.DE`). London prices quoted in pence are converted to pounds. If the service can't be reached, type the price in the holding yourself.
+
+### How do I share the plan with my partner?
+On your own devices, turn on iCloud sync. For a partner with their own Apple Account, open *Household* → *Send household file…* and send it by AirDrop, Messages or Mail; they open it with *Open a household file…*. Each later file updates the same household on their device without duplicates, and they can send changes back the same way. The file holds your full plan, unencrypted — send it only to them.
+
+### Why didn't my one-time income raise my take-home pay?
+One-time money (a stock sale, bonus or gift) isn't part of your monthly pay. If it's still to come, it's added to Projections and Life Events on its date; if it's already arrived, add it to the account it went into so your balances include it.
+
+### My rent from a rental property is counted twice
+If you added the property under *Real Estate* with its rent, delete any separate *Rental income* entry under Income — the property's rent is already counted (after empty months, costs and the loan).
+
+### Where can I find the weekly digest?
+*Reports & Digest*. Turn on *Send me the digest every week* to get it as a notification; it's refreshed with your latest numbers each time you open the app.
+
 ### Why don't I see my data?
 Check the profile button at the top of the sidebar — you may be viewing a different profile.
