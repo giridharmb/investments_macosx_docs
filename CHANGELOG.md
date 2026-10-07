@@ -1,6 +1,7 @@
 # Release notes
 
 ## 1.7 — October 2026
+- **Money Map:** link labels (amounts, "income", "all, year 5") stay off the boxes — each sits at the first clear spot along its line.
 - **Money Map:** boxes never overlap on the canvas — drop one on another and the one underneath slides out of the way; boxes added, imported or saved on top of each other are spread out, with room for them to grow as the years play.
 - **iPhone Money Map:** tapping a box's title line (now with a ›) opens the box; each money chip below it opens that link. Before, tapping a box often opened one of its links instead.
 - **Fixes:** changing a saved strategy's type no longer shows generic slider values; settings saved for a screen are no longer replaced by fresh defaults when the app opens straight onto it or while switching profiles; scenarios saved on two devices are combined; the selected debt carries across devices; Money Map's play button resets when you leave the screen, and its "money put in" figure counts each year at that year's prices.
