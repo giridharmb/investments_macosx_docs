@@ -1,6 +1,6 @@
 # Privacy policy
 
-_Last updated: October 7, 2026_
+_Last updated: October 12, 2026_
 
 WealthPilot is designed so your financial data never leaves your device.
 
@@ -8,7 +8,8 @@ WealthPilot is designed so your financial data never leaves your device.
 - **Optional iCloud sync.** If you turn on *Settings → Sync with iCloud*, your data — including screen settings and saved scenarios — is stored in **your own private iCloud (CloudKit) database**, which only you can access. The developer cannot see it. Data is encrypted in transit and at rest by Apple; with Advanced Data Protection it is end-to-end encrypted. A full copy of your data is always kept on the device as well, so signing out of iCloud doesn't remove it from the device. Turn sync off at any time; delete iCloud data via your device's iCloud settings (Manage Storage).
 - **No tracking or analytics.** The app contains no third-party SDKs, advertising, or analytics.
 - **On-device AI.** The AI Advisor and W-2 extraction use Apple's on-device Foundation Models. Prompts and responses are processed on your device.
-- **Documents and camera.** W-2 files, photos are read only to recognize text on-device and are not stored or transmitted. 
+- **Documents and camera.** W-2 forms, receipts and photos are read only to recognize text on the device and are not stored or transmitted. Bank and card statement files you import are read on the device; only the lines you tick are saved, as expenses, plus the merchant → category rules the app learns (both in your data, synced only if iCloud sync is on). WealthPilot never connects to your bank.
+- **Widgets and Siri.** To show the widgets, the app saves a small summary (net worth, this month's spending, budget left, free cash flow and the profile's name) in a container shared only with its own widget on this device. With *Hide amounts* or App Lock on, widgets show no amounts. Siri and Shortcuts requests are handled by the app on your device; spoken amounts go through Apple's speech recognition under Apple's privacy policy.
 - **Network.** WealthPilot makes network requests only for things you turn on or ask for: Apple's iCloud sync and diagnostic reports (each only when you turn it on), and two optional lookups you trigger with a button —
   - **Share prices:** *Get price* in a holding and *Refresh prices* send only the ticker symbols you entered (e.g. "VTI") to Yahoo Finance's public quote service to read the latest price. No amounts, share counts or other data are sent.
   - **Exchange rates:** *Get latest rates* asks the free Frankfurter service for the European Central Bank's reference rates. Nothing about you or your money is sent.
