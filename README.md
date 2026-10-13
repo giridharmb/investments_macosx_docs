@@ -28,6 +28,8 @@ WealthPilot turns your paycheck, rent, expenses, debts, savings and investments 
 | 🐷 **Savings & Goals** | Emergency fund, high-yield optimization, goals with the monthly amount needed. |
 | 📈 **Investments** | Allocation vs an age/risk glide path, expected return, volatility, risk score, fee drag, “where should my next dollar go” ladder, tax-loss harvesting. Optional ticker and share count per holding with one-tap price refresh; holdings, accounts and assets in 30 currencies. |
 | 🏁 **Performance & Dividends** | Your holdings against the S&P 500 or other benchmarks, a 12-month dividend calendar, allocation drift and price alerts. |
+| 🏛 **Retirement Tax Plan** | When to claim Social Security, which accounts to draw first, RMDs and Roth conversions — the tax year by year (US). Quarterly estimated tax with due dates on Taxes. |
+| 📁 **Estate & Records** | Estate document checklist with on-device copies, beneficiaries per account, credit score log; milestones on the Dashboard. |
 | 🔀 **Spending Insights** | Cash-flow diagram of where each month's money goes, this year vs last year, biggest category changes and top merchants; a bills calendar on Budget & Bills. |
 | 🏢 **Real Estate** | Renting or owning where you live, plus rentals, second homes and land with their loans: cash flow, cap rate, cash-on-cash, total return and 10-year equity. |
 | 🔮 **Projections** | Deterministic + 1,000-path Monte Carlo fan charts, FI age, sustainable spending, what-if sliders and a life-events timeline. |
