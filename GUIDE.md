@@ -81,14 +81,18 @@ Annual estimate with federal/national, state/regional, Social Security/social in
 Import from PDF or image file, or Photos. Text is recognized with Apple Vision and structured with layout heuristics plus Apple Intelligence (if available). **Always review the values** before saving. You can also create a salary income from the W-2.
 
 ### Expenses & Rent
-Recurring bills (with frequency, start/end dates) and one-off purchases. Mark items essential vs. discretionary. The Rent card shows housing as % of gross pay, the 30% affordability limit, your state's rough median rent and 5-year rent cost. The 50/30/20 card compares needs/wants/savings with targets.
+Recurring bills (with frequency, start/end dates) and one-off purchases. Mark items essential vs. discretionary. A recurring bill's *Remind me* sets its own reminder (or follows the default in Settings). The Rent card shows housing as % of gross pay, the 30% affordability limit, your state's rough median rent and 5-year rent cost. The 50/30/20 card compares needs/wants/savings with targets.
 
 **Import a statement:** *+ → Import bank or card statement…* takes a CSV, OFX, QFX or QIF file from your bank's or card's website. Review every line before importing: ticked lines become one-off expenses with a guessed category (tap the category to change it — other lines from the same merchant follow, and the app remembers it). Lines already recorded, recurring bills you already track, card payments and transfers start unticked; money in is listed separately and isn't imported. If the file doesn't say which way round amounts are, flip *Purchases are positive amounts in this file*. Learned merchants are listed under *Categories → Import rules*.
 **Scan a receipt:** *+ → Scan a receipt…* and pick a photo or a file. The store, total and date open in a new expense for you to check before saving.
 
 ### Budget & Bills
 **Budgets:** use the toolbar's *Edit budgets* to set a monthly limit per category (leave 0 to skip one), or *Suggest from the last 3 months* to start from your averages for flexible spending. Each bar shows spent vs. limit; the tick marks how far through the month you are, so a bar past the tick is ahead of pace. Recurring bills count in full for the month; one-off purchases count as logged. Orange means you're on pace to exceed the budget, red means you already have.
+**Rollover budgets:** in *Edit budgets*, turn on *Roll over to next month* under a category. Each month's unspent amount is added to the next month's limit and overspending is taken off; the bar shows "+$X rolled over" or "−$X overspent before". Today's limit is used for earlier months, and at most 12 months carry. **Alerts:** the line under the budgets shows whether budget alerts are on — *Turn on…* opens Settings.
 **Upcoming & checking forecast:** paychecks (after tax and deductions), recurring bills and EMIs by date for the next 2 weeks, 30 days or 60 days. The chart starts from your checking accounts' balance and steps through each day; the lowest point is shown, with a warning if it goes below zero. Transfers to savings and investments aren't included because their dates aren't known.
+
+### Subscriptions
+Streaming, apps, memberships and anything else that renews by itself. Recurring expenses in the Subscriptions category, or from well-known services (Netflix, Spotify, iCloud, Prime, Adobe…) in any category, are listed with their monthly and yearly cost and next renewal; a bell means a reminder is set. Tap one to edit it; right-click it to *Mark as cancelled* (no more renewals from today — past months keep their cost). **Found in your spending** lists merchants charged at a steady rhythm and amount among your one-off expenses (usually from imported statements) that aren't tracked yet, with any price rise; *Track as subscription* adds a recurring expense from the next charge (later statement imports then skip those charges), *Not a subscription* hides the suggestion. Add one by hand with **+**.
 
 ### Categories
 Your own categories for spending and income — make as many as you like (*New category*), each with a name, color and symbol. A spending category **counts as** a built-in one (and can be marked essential), so budgets, the 50/30/20 check and needs vs wants keep working; an income category is **taxed like** the income type you pick. Each row shows how many records use it and its monthly total. Tap one to rename or change it (its records move along); the trash button deletes it — its income and spending stay, under the built-in category it counted as.
@@ -176,7 +180,7 @@ Open from the sidebar or with **⌘,**.
 
 | **Hide amounts** | Privacy mode — masks every money value on screen. |
 | **Theme / Open app to** | Light, dark or system appearance; the screen shown at launch. |
-| **Reminders** | Monthly money check-in (choose the day) and weekly spending log (choose the weekday), at a time you pick. |
+| **Reminders** | Monthly money check-in (choose the day) and weekly spending log (choose the weekday), at a time you pick. **Bill reminders** before each recurring bill and EMI (on the day or 1–7 days before; a bill can override this in its editor under *Remind me*). **Budget alerts** when a category reaches your warning level and when it goes over. |
 | **On-device AI analysis** | Turn Apple Intelligence features off to use rule-based analysis only. |
 | **Monte Carlo scenarios** | 500 – 5,000 simulated markets for projections. |
 | **Data** | Export a JSON backup, restore from a backup, export expenses as CSV, load sample data, or erase everything. |

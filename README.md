@@ -22,7 +22,8 @@ WealthPilot turns your paycheck, rent, expenses, debts, savings and investments 
 | 🗣 **Widgets & Siri** | Desktop widgets for net worth, spending and budget left; "Log an expense" and "What's my net worth" with Siri and Shortcuts. |
 | 🏠 **Expenses & Rent** | 22 built-in categories plus your own, recurring and one-off spending, rent affordability (30% rule), state median-rent comparison, 50/30/20 check. |
 | 🏷 **Your categories** | Create, rename and delete your own income and spending categories; each rolls up to a built-in one so budgets and taxes keep working. |
-| 📅 **Budget & Bills** | Monthly category budgets with pace tracking and suggestions; upcoming bills, EMIs and paychecks with a checking-balance forecast. |
+| 📅 **Budget & Bills** | Monthly category budgets with pace tracking, suggestions, rollover (envelope) budgets and alerts; upcoming bills, EMIs and paychecks with a checking-balance forecast and reminders before each bill. |
+| 🔁 **Subscriptions** | Every subscription's monthly and yearly cost and next renewal; repeating charges found in your spending, with price rises flagged. |
 | 💳 **Debts & EMIs** | EMI calculation, amortization charts, Avalanche vs Snowball payoff with extra-payment slider. |
 | 🐷 **Savings & Goals** | Emergency fund, high-yield optimization, goals with the monthly amount needed. |
 | 📈 **Investments** | Allocation vs an age/risk glide path, expected return, volatility, risk score, fee drag, “where should my next dollar go” ladder, tax-loss harvesting. Optional ticker and share count per holding with one-tap price refresh; holdings, accounts and assets in 30 currencies. |
