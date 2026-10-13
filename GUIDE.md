@@ -63,6 +63,14 @@ A **profile** is a complete, independent plan: its own country and assumptions, 
 - **Your settings stay put:** sliders, pickers and what-ifs on every screen are saved with the profile as you change them — no Save button needed — so leaving a screen (or the app) and coming back shows them as you left them, and with iCloud sync they're on your other devices too. They're also in backups and copied with a profile. The note under the sliders says *Saving…*, then *Saved · in iCloud* (or *Saved on this device*).
 - **Scenarios:** on Projections, Rent vs Buy, each investment strategy and every calculator, open **Scenarios → Save as scenario…** to keep the current settings under a name, such as *Retire at 55* or *$600K house*. Pick a saved scenario from the same menu to switch back to it (the button shows which one you're on), or delete it. Saving with an existing name replaces that scenario.
 
+## Choosing what you see
+Not everyone needs every screen — a student may never use W-2s or retirement tax planning. Choose a layout when you set up a profile, or tap **Customize what you see…** at the bottom of the sidebar (also in Settings → Appearance):
+- **Start from** a preset: Simple, Student, Working professional, Freelancer / self-employed, Family & home, Near or in retirement, or Everything.
+- **Switch screens** on or off individually (Dashboard, Income & Paycheck, Expenses & Rent, Profile & Assumptions and Settings are always shown). Right-click a screen in the sidebar and choose *Hide from sidebar* for a quick change.
+- **Cards inside screens:** turn off Dashboard, Budget, Investments and Taxes cards you don't use. Dashboard figures about retirement and taxes also follow your layout.
+
+Nothing is deleted; hidden screens leave the sidebar and the Go menu but links to them still work. Each profile has its own layout, saved with the profile so it syncs.
+
 ## Screens
 
 ### Dashboard
@@ -91,6 +99,7 @@ Recurring bills (with frequency, start/end dates) and one-off purchases. Mark it
 
 ### Budget & Bills
 **Budgets:** use the toolbar's *Edit budgets* to set a monthly limit per category (leave 0 to skip one), or *Suggest from the last 3 months* to start from your averages for flexible spending. Each bar shows spent vs. limit; the tick marks how far through the month you are, so a bar past the tick is ahead of pace. Recurring bills count in full for the month; one-off purchases count as logged. Orange means you're on pace to exceed the budget, red means you already have.
+**Safe to spend:** take-home pay this month, less bills (in full), loan and card payments, and savings and investing contributions, is your flexible money for the month; one-off spending so far comes off it. The daily figure shares what was left this morning evenly across the days left, so overspending one day lowers the next. **Every dollar has a job:** this month's take-home split across bills, debt payments, saving, property costs and your budgets (each budget counts only what isn't already covered by bills in that category). Anything unassigned gets buttons to budget it, save it or pay down debt; if you've planned more than you take home, trim until it balances.
 **Rollover budgets:** in *Edit budgets*, turn on *Roll over to next month* under a category. Each month's unspent amount is added to the next month's limit and overspending is taken off; the bar shows "+$X rolled over" or "−$X overspent before". Today's limit is used for earlier months, and at most 12 months carry. **Alerts:** the line under the budgets shows whether budget alerts are on — *Turn on…* opens Settings.
 **Bills calendar:** a month grid of bills, EMIs and paychecks — orange is money out, green money in. Use ‹ › to change month and tap a day to list what's on it.
 **Upcoming & checking forecast:** paychecks (after tax and deductions), recurring bills and EMIs by date for the next 2 weeks, 30 days or 60 days. The chart starts from your checking accounts' balance and steps through each day; the lowest point is shown, with a warning if it goes below zero. Transfers to savings and investments aren't included because their dates aren't known.
@@ -103,7 +112,7 @@ Your own categories for spending and income — make as many as you like (*New c
 
 ### Debts & EMIs
 Each loan's EMI is computed from balance, APR and remaining months (or enter your actual payment). Tap a debt to see its amortization (principal vs. interest by year with the remaining balance). *Payoff strategy* compares minimum payments, Avalanche (highest rate first) and Snowball (smallest balance first) with an adjustable extra payment.
-
+ **Credit card utilization:** enter a card's *Credit limit* in its editor (pencil button) to see its balance as a share of the limit and overall utilization — under 30% helps your credit score, under 10% is best.
 ### Savings & Goals
 Accounts with APY and monthly contributions; flag your emergency fund. A 5-year chart compares your current rates with the best typical high-yield rate. Goals show progress and the monthly saving needed to hit the target date.
 
