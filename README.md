@@ -15,9 +15,11 @@ WealthPilot turns your paycheck, rent, expenses, debts, savings and investments 
 | | |
 |---|---|
 | 📊 **Dashboard** | Net worth, take-home pay, spending, savings rate, emergency-fund months, retirement odds, effective tax rate a 0–100 financial health score, and a spending trend by day, week, two weeks or month over any date range. |
+| 🧭 **Help & Money Map** | An interactive map of how income, taxes, spending, debt, saving, investing and net worth fit together, with your numbers, a walk-through and a glossary of 60+ money words. A Sample Profile to explore, ⓘ explanations on every field, “Don't know” for any amount. |
+| 🧱 **Money Boxes** | Your income as boxes inside boxes — taxes, needs, wants, debt, saving, investing — and what you own next to what you owe. |
 | 💼 **Income & paycheck** | Any income — salary, part-time or gig work, bonuses, freelance, stock sales / RSUs, rent, dividends, pensions, gifts — regular (with start and end dates) or one time. Gross → 401(k)/pension → health/HSA → taxes → net, per paycheck. Employer-match gap detection. |
 | 🏛 **Taxes** | 2026 US federal brackets, FICA, all 50 states + DC (approx.), child tax credit; simplified national systems for India, UK, Canada, Germany, Australia, Singapore, UAE and Japan. |
-| 🧾 **W-2 import** | Scan a W-2 (PDF or image file, or Photos). Vision OCR + on-device AI extract the boxes; you review before saving. Predicts refund or amount owed. |
+| 🧾 **W-2 forms** | Type in your W-2 with every box explained in plain words; any box can be “Don't know”. Boxes are checked against each other. Predicts refund or amount owed. |
 | 📥 **Statement import & receipts** | Import CSV, OFX, QFX or QIF statements from your bank's website (no bank login) or exports from Mint, YNAB, Monarch and Copilot — duplicates and transfers skipped, categories guessed and learned. Scan receipts into expenses. |
 | 🗣 **Widgets & Siri** | Desktop widgets for net worth, spending and budget left; "Log an expense" and "What's my net worth" with Siri and Shortcuts. |
 | 🏠 **Expenses & Rent** | 22 built-in categories plus your own, recurring and one-off spending, rent affordability (30% rule), state median-rent comparison, 50/30/20 check. |
@@ -29,9 +31,13 @@ WealthPilot turns your paycheck, rent, expenses, debts, savings and investments 
 | 💳 **Debts & EMIs** | EMI calculation, amortization charts, Avalanche vs Snowball payoff with extra-payment slider. |
 | 🐷 **Savings & Goals** | Emergency fund, high-yield optimization, goals with the monthly amount needed. |
 | 📈 **Investments** | Allocation vs an age/risk glide path, expected return, volatility, risk score, fee drag, “where should my next dollar go” ladder, tax-loss harvesting. Optional ticker and share count per holding with one-tap price refresh; holdings, accounts and assets in 30 currencies. |
+| 🎟 **Stock Grants & Options** | RSUs, stock options, ESPP and private shares with vesting, value, upcoming vests and the tax they bring; a warning when one company is too much of your money. |
+| 💎 **Other assets** | Gold and metals, collectibles, private investments, annuities, life insurance cash value, bonds and CDs with maturity dates. |
 | 🏁 **Performance & Dividends** | Your holdings against the S&P 500 or other benchmarks, a 12-month dividend calendar, allocation drift and price alerts. |
 | 🏛 **Retirement Tax Plan** | When to claim Social Security, which accounts to draw first, RMDs and Roth conversions — the tax year by year (US). Quarterly estimated tax with due dates on Taxes. |
 | 📁 **Estate & Records** | Estate document checklist with on-device copies, beneficiaries per account, credit score log; milestones on the Dashboard. |
+| 🛡 **Insurance Check & Emergency Plan** | Your cover against what your situation calls for, and how many months you'd last without income — what to cut and in what order. |
+| 🗄 **Document Vault & Net Worth History** | Statements, tax forms, policies and wills kept on the device; net worth over the years, with past months you add. |
 | 🔀 **Spending Insights** | Cash-flow diagram of where each month's money goes, this year vs last year, biggest category changes and top merchants; a bills calendar on Budget & Bills. |
 | 🏢 **Real Estate** | Renting or owning where you live, plus rentals, second homes and land with their loans: cash flow, cap rate, cash-on-cash, total return and 10-year equity. |
 | 🔮 **Projections** | Deterministic + 1,000-path Monte Carlo fan charts, FI age, sustainable spending, what-if sliders and a life-events timeline. |

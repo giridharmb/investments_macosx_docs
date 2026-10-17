@@ -10,8 +10,8 @@ On-device AI requires a Mac with Apple silicon and Apple Intelligence enabled. I
 ### Are the tax numbers exact?
 No — they're estimates using simplified rules (standard deduction, major credits). Use them for planning, and file with tax software or a professional.
 
-### The W-2 scan missed some values
-Scan quality matters. Use a flat, well-lit image or the original PDF, then correct values on the review screen before saving.
+### Where did W-2 scanning go?
+W-2s are now typed in: scans sometimes misread digits, and a wrong number changes your tax picture. Tap ⓘ next to any box to see what it means and where it is on the form, and use *Don't know* for any box you can't find.
 
 ### Why does my spending trend look flat — or spiky?
 Recurring everyday budgets (groceries, dining, transport, shopping…) are spread evenly across the days, so they look flat; log one-off purchases to see real variation. Bills such as rent land on their due date, so daily and weekly views show a spike that day. Tap **Flexible** to leave fixed bills out.
