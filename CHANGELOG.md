@@ -1,6 +1,11 @@
 # Release notes
 
 ## 1.7 — October 2026
+- **Split a purchase:** one receipt across several categories (groceries, household and a gift from one shop) — *Split across categories…* in a one-off expense. Each part becomes its own expense in its category; the parts stay linked, can be changed later or joined back together, and statement imports know the purchase is already recorded.
+- **Tags:** label any expense ("Hawaii trip", "Work"), filter Expenses by tag, search by tags and notes, and see what each tag cost in *Spending Insights → Spending by tag*.
+- **Owed to you:** paid for a friend or a work expense? Turn on *Someone owes me part of this*, enter what's owed and by whom — only your share counts as your spending. *Owed to you* on Expenses totals it by person; mark it paid back, or count it as your spending if it never comes.
+- **Receipts on expenses:** attach a photo or PDF to any expense (kept on this device only), and scanned receipts are now kept with the expense they create.
+- **Import from other apps:** transaction exports from **Mint, YNAB, Monarch and Copilot** import like a bank statement, keeping the categories, tags and notes you gave them there; transfers and income are recognised.
 - **See only what you need:** pick a layout — Simple, Student, Working professional, Freelancer, Family & home, Near or in retirement, or Everything — when you set up a profile, or any time from *Customize what you see…* (bottom of the sidebar, or Settings). Switch any screen on or off, and turn off cards you don't use on the Dashboard, Budget, Investments and Taxes. Dashboard, Income, Expenses, Profile and Settings are always there; nothing is deleted, hidden screens just leave the sidebar. Right-click a screen in the sidebar to hide it. Each profile keeps its own layout, and it syncs. Existing profiles keep everything.
 - **Safe to spend** on the Dashboard and Budget: what's left for everyday spending this month after bills, loan payments and saving, and an even share per day — with what's left today. Also on the medium widget and the Lock Screen.
 - **Every dollar has a job** (Budget): this month's take-home split across bills, debt, saving, property costs and your budgets, with what's still unassigned and one-tap ways to budget it, save it or pay down debt — or a warning when you've planned more than comes in.

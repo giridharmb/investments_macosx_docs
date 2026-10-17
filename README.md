@@ -18,10 +18,11 @@ WealthPilot turns your paycheck, rent, expenses, debts, savings and investments 
 | 💼 **Income & paycheck** | Any income — salary, part-time or gig work, bonuses, freelance, stock sales / RSUs, rent, dividends, pensions, gifts — regular (with start and end dates) or one time. Gross → 401(k)/pension → health/HSA → taxes → net, per paycheck. Employer-match gap detection. |
 | 🏛 **Taxes** | 2026 US federal brackets, FICA, all 50 states + DC (approx.), child tax credit; simplified national systems for India, UK, Canada, Germany, Australia, Singapore, UAE and Japan. |
 | 🧾 **W-2 import** | Scan a W-2 (PDF or image file, or Photos). Vision OCR + on-device AI extract the boxes; you review before saving. Predicts refund or amount owed. |
-| 📥 **Statement import & receipts** | Import CSV, OFX, QFX or QIF statements from your bank's website (no bank login) — duplicates and transfers skipped, categories guessed and learned. Scan receipts into expenses. |
+| 📥 **Statement import & receipts** | Import CSV, OFX, QFX or QIF statements from your bank's website (no bank login) or exports from Mint, YNAB, Monarch and Copilot — duplicates and transfers skipped, categories guessed and learned. Scan receipts into expenses. |
 | 🗣 **Widgets & Siri** | Desktop widgets for net worth, spending and budget left; "Log an expense" and "What's my net worth" with Siri and Shortcuts. |
 | 🏠 **Expenses & Rent** | 22 built-in categories plus your own, recurring and one-off spending, rent affordability (30% rule), state median-rent comparison, 50/30/20 check. |
 | 🏷 **Your categories** | Create, rename and delete your own income and spending categories; each rolls up to a built-in one so budgets and taxes keep working. |
+| 🧾 **Splits, tags & shared costs** | Split a purchase across categories, tag spending (trips, work), track what friends or your employer owe you, and keep receipts with expenses. |
 | 🎛 **Your layout** | Presets for students, professionals, freelancers, families and retirees — or switch any screen and card on or off. Each profile keeps its own. |
 | 📅 **Budget & Bills** | Monthly category budgets with pace tracking, suggestions, rollover (envelope) budgets, alerts, safe to spend each day and every dollar assigned; upcoming bills, EMIs and paychecks with a checking-balance forecast and reminders before each bill. |
 | 🔁 **Subscriptions** | Every subscription's monthly and yearly cost and next renewal; repeating charges found in your spending, with price rises flagged. |
