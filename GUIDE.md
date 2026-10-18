@@ -82,6 +82,9 @@ A **profile** is a complete, independent plan: its own country and assumptions, 
 - **Cancel** undoes everything you changed in the form, including your own fields and *Don't know* answers.
 - **Your own fields:** *Add your own field…* on a form adds a field to every form of that kind in the profile (see *Categories → Your form fields*).
 
+## Accessibility
+WealthPilot works with VoiceOver: buttons and charts have spoken labels, decorative icons are skipped, and section titles are headings you can jump between. Text follows your text-size setting (the money map's circles keep a fixed size so they don't overlap — the details below them grow). Warning text and colored buttons use darker shades so they're readable for low vision, in light and dark mode. Every screen is checked with Apple's accessibility audit.
+
 ## Choosing what you see
 Not everyone needs every screen — a student may never use W-2s or retirement tax planning. Choose a layout when you set up a profile, or tap **Customize what you see…** at the bottom of the sidebar (also in Settings → Appearance):
 - **Start from** a preset: Simple, Student, Working professional, Freelancer / self-employed, Family & home, Near or in retirement, or Everything.
@@ -129,6 +132,9 @@ Optional — W-2s let WealthPilot check your withholding. Click **Enter manually
 
 Only **Box 1** and the tax year are required — and Box 1 can be **Don't know** for now. Any box can be *Don't know*; for Box 4 and Box 6 the app uses 6.2% and 1.45% of the wages until you type the real number. The W-2 list marks unknown boxes, and the Inputs Checklist lists them. The boxes are checked against each other (Box 4 ≈ 6.2% of Box 3, Box 6 ≈ 1.45% of Box 5, Box 3 under the year's Social Security limit, Box 1 ≤ Box 5, state boxes without a state, Box 17 > Box 16, the same employer and year twice) — these are warnings, so you can still save a W-2 that really is unusual. Worked in two states? Add the second state line as a second W-2. You can also create a salary income from the W-2 (from Box 5, or Box 1 if Box 5 is empty).
 
+### Pay Statements
+Outside the US, the year-end statement your employer gives you instead of a W-2: a **P60** (UK), **Form 16** (India), **T4** (Canada), **Lohnsteuerbescheinigung** (Germany), **income statement** (Australia), **IR8A** (Singapore), **gensen chōshū-hyō** (Japan) or a **salary certificate** (UAE). Each line is explained with ⓘ — where it is on the form and what it means — and any can be *Don't know*. Where tax is taken from pay, each statement compares the tax taken with what WealthPilot estimates, so you can see whether a refund or a bill is likely. Only shown for profiles outside the US.
+
 ### Expenses & Rent
 Recurring bills (with frequency, start/end dates) and one-off purchases. Mark items essential vs. discretionary. A recurring bill's *Remind me* sets its own reminder (or follows the default in Settings). The Rent card shows housing as % of gross pay, the 30% affordability limit, your state's rough median rent and 5-year rent cost. The 50/30/20 card compares needs/wants/savings with targets.
 
@@ -157,6 +163,8 @@ Your own categories for spending and income — make as many as you like (*New c
 ### Debts & EMIs
 Each loan's EMI is computed from balance, APR and remaining months (or enter your actual payment). Tap a debt to see its amortization (principal vs. interest by year with the remaining balance). *Payoff strategy* compares minimum payments, Avalanche (highest rate first) and Snowball (smallest balance first) with an adjustable extra payment.
  **Credit card utilization:** enter a card's *Credit limit* in its editor (pencil button) to see its balance as a share of the limit and overall utilization — under 30% helps your credit score, under 10% is best.
+
+**Student loan repayment plans** appear when you have a student loan: every plan side by side with its monthly payment (first and last), how long it runs, the total you'd pay and anything forgiven at the end. In the US: Standard, Graduated, Extended (over $30,000), Income-Based (IBR) and the Repayment Assistance Plan (RAP), under 2026 rules, with a note on Public Service Loan Forgiveness. In the UK: Plan 2 and Plan 5 (9% of income above the threshold, written off after 30 or 40 years). Elsewhere: a standard and a longer term. Move the income slider to see how a raise or a pay cut changes things. Estimates only — check studentaid.gov or the Student Loans Company before switching.
 ### Savings & Goals
 Accounts with APY and monthly contributions; flag your emergency fund. CDs, fixed deposits, T-bills and **bonds held directly** can have a **maturity date** — the list shows when each matures and the Dashboard reminds you 90 days ahead. *Property & other assets* takes a home, rental, land, vehicle or business, and also **gold & precious metals**, **collectibles, art & jewelry**, **private / startup investments**, **life insurance cash value** and **annuities** — each with a hint on how to value it and a typical yearly change to start from. A 5-year chart compares your current rates with the best typical high-yield rate. Goals show progress and the monthly saving needed to hit the target date.
 

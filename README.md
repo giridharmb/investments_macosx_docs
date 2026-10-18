@@ -21,6 +21,7 @@ WealthPilot turns your paycheck, rent, expenses, debts, savings and investments 
 | 💼 **Income & paycheck** | Any income — salary, part-time or gig work, bonuses, freelance, stock sales / RSUs, rent, dividends, pensions, gifts — regular (with start and end dates) or one time. Gross → 401(k)/pension → health/HSA → taxes → net, per paycheck. Employer-match gap detection. |
 | 🏛 **Taxes** | 2026 US federal brackets, FICA, all 50 states + DC (approx.), child tax credit; simplified national systems for India, UK, Canada, Germany, Australia, Singapore, UAE and Japan. |
 | 🧾 **W-2 forms** | Type in your W-2 with every box explained in plain words; any box can be “Don't know”. Boxes are checked against each other. Predicts refund or amount owed. |
+| 🌍 **Pay statements** | Outside the US: P60, Form 16, T4, Lohnsteuerbescheinigung, income statement, IR8A, gensen chōshū-hyō — every line explained, tax taken checked against the estimate. |
 | 📥 **Statement import & receipts** | Import CSV, OFX, QFX or QIF statements from your bank's website (no bank login) or exports from Mint, YNAB, Monarch and Copilot — duplicates and transfers skipped, categories guessed and learned. Scan receipts into expenses. |
 | 🗣 **Widgets & Siri** | Desktop widgets for net worth, spending and budget left; "Log an expense" and "What's my net worth" with Siri and Shortcuts. |
 | 🏠 **Expenses & Rent** | 22 built-in categories plus your own, recurring and one-off spending, rent affordability (30% rule), state median-rent comparison, 50/30/20 check. |
@@ -29,7 +30,7 @@ WealthPilot turns your paycheck, rent, expenses, debts, savings and investments 
 | 🎛 **Your layout** | Presets for students, professionals, freelancers, families and retirees — or switch any screen and card on or off. Each profile keeps its own. |
 | 📅 **Budget & Bills** | Monthly category budgets with pace tracking, suggestions, rollover (envelope) budgets, alerts, safe to spend each day and every dollar assigned; upcoming bills, EMIs and paychecks with a checking-balance forecast and reminders before each bill. |
 | 🔁 **Subscriptions** | Every subscription's monthly and yearly cost and next renewal; repeating charges found in your spending, with price rises flagged. |
-| 💳 **Debts & EMIs** | EMI calculation, amortization charts, Avalanche vs Snowball payoff with extra-payment slider. |
+| 💳 **Debts & EMIs** | EMI calculation, amortization charts, Avalanche vs Snowball payoff with extra-payment slider, and student loan repayment plans compared (US and UK). |
 | 🐷 **Savings & Goals** | Emergency fund, high-yield optimization, goals with the monthly amount needed. |
 | 📈 **Investments** | Allocation vs an age/risk glide path, expected return, volatility, risk score, fee drag, “where should my next dollar go” ladder, tax-loss harvesting. Optional ticker and share count per holding with one-tap price refresh; holdings, accounts and assets in 30 currencies. |
 | 🎟 **Stock Grants & Options** | RSUs, stock options, ESPP and private shares with vesting, value, upcoming vests and the tax they bring; a warning when one company is too much of your money. |

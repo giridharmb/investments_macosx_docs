@@ -18,6 +18,9 @@
 - **Emergency Plan** (new, under Planning): how many months you'd last without income, what to cut first, and the order to use your money.
 - **Net Worth History** (new, under Balance Sheet): your net worth over the years, with past months you can add.
 - **Document Vault** (new, under Planning): statements, tax forms, policies, wills and IDs in one place. With iCloud sync on, the files sync to all your devices too (up to 50 MB each), and they're included in backups, exports, household files and profile copies.
+- **Student loan repayment plans** (on Debts & EMIs): US Standard, Graduated, Extended, IBR and RAP under 2026 rules, and UK Plan 2 and Plan 5 — monthly payments, years, total paid and anything forgiven, side by side.
+- **Pay Statements** (new, outside the US): type in your P60, Form 16, T4, Lohnsteuerbescheinigung, income statement, IR8A, gensen chōshū-hyō or salary certificate, with every line explained and the tax taken compared with the estimate.
+- **Accessibility:** VoiceOver skips decorative icons and reads card titles as headings; warning text and colored buttons are darker for contrast; small labels in the money map and boxes are clearer.
 - **Cancel undoes everything:** cancelling a form now also undoes changes to your own fields.
 
 ## 1.7 — October 2026
