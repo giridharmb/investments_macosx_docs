@@ -37,7 +37,7 @@ WealthPilot turns your paycheck, rent, expenses, debts, savings and investments 
 | 🏛 **Retirement Tax Plan** | When to claim Social Security, which accounts to draw first, RMDs and Roth conversions — the tax year by year (US). Quarterly estimated tax with due dates on Taxes. |
 | 📁 **Estate & Records** | Estate document checklist with on-device copies, beneficiaries per account, credit score log; milestones on the Dashboard. |
 | 🛡 **Insurance Check & Emergency Plan** | Your cover against what your situation calls for, and how many months you'd last without income — what to cut and in what order. |
-| 🗄 **Document Vault & Net Worth History** | Statements, tax forms, policies and wills kept on the device; net worth over the years, with past months you add. |
+| 🗄 **Document Vault & Net Worth History** | Statements, tax forms, policies and wills, synced across your devices with iCloud; net worth over the years, with past months you add. |
 | 🔀 **Spending Insights** | Cash-flow diagram of where each month's money goes, this year vs last year, biggest category changes and top merchants; a bills calendar on Budget & Bills. |
 | 🏢 **Real Estate** | Renting or owning where you live, plus rentals, second homes and land with their loans: cash flow, cap rate, cash-on-cash, total return and 10-year equity. |
 | 🔮 **Projections** | Deterministic + 1,000-path Monte Carlo fan charts, FI age, sustainable spending, what-if sliders and a life-events timeline. |
