@@ -14,7 +14,7 @@
 - **Insurance Check** (new, under Planning): the cover you have against what your situation calls for.
 - **Emergency Plan** (new, under Planning): how many months you'd last without income, what to cut first, and the order to use your money.
 - **Net Worth History** (new, under Balance Sheet): your net worth over the years, with past months you can add.
-- **Document Vault** (new, under Planning): statements, tax forms, policies, wills and IDs in one place. With iCloud sync on, the files sync to all your devices too (up to 50 MB each).
+- **Document Vault** (new, under Planning): statements, tax forms, policies, wills and IDs in one place. With iCloud sync on, the files sync to all your devices too (up to 50 MB each), and they're included in backups, exports, household files and profile copies.
 - **Cancel undoes everything:** cancelling a form now also undoes changes to your own fields.
 
 ## 1.7 — October 2026
