@@ -2,7 +2,15 @@
 
 ## Getting started
 
-On first launch choose **Set up my profile** or **Explore the Sample Profile first**. The **Sample Profile** is a made-up plan for “Alex” with every screen filled in — income, bills, debts, savings, investments, company stock, insurance, gold, a CD and an expected inheritance. It lives in its own profile, so it never mixes with your numbers: look around, compare it with your own plan, and switch back from the top of the sidebar. Open or reset it any time from *Help & Money Map* or *Profiles*, and use **Start my own from scratch** for a blank profile of your own.
+On first launch choose **Set up my profile** or **Explore the Sample Profile first**. **Sample profiles** are made-up plans for different lives, each in its own profile so they never mix with your numbers:
+- **Alex, 34** — a working professional in California with every screen filled in: salary and RSUs, a rental condo, investments, insurance, gold, a CD and an expected inheritance.
+- **Maya, 16** — high school in Texas, a weekend job and an allowance, saving for a first car.
+- **Jordan, 20** — college in Ohio: a campus job, a scholarship, rent, student loans and a first credit card.
+- **Sam, 29** — between jobs in Washington: unemployment benefits, an emergency fund, a car loan and card debt.
+- **Pat & Lee, 67** — retired in Florida: Social Security, a pension, dividends, IRAs and a paid-off home.
+- **Priya, 31** — a professional in India, in rupees: EPF, PPF, SIPs, a fixed deposit and gold.
+
+Open any of them from *Help & Money Map* or *Profiles*, look around and compare with your own plan, then switch back from the top of the sidebar. **Reset sample** undoes changes to the one you're in, and **Start my own from scratch** makes a blank profile of your own. Anyone from 13 up can set up a profile; under 18, some accounts need a parent to open them.
 
 New to money words? Start with **Help & Money Map** — it shows how everything fits together.
 
@@ -77,7 +85,7 @@ A **profile** is a complete, independent plan: its own country and assumptions, 
 ## Choosing what you see
 Not everyone needs every screen — a student may never use W-2s or retirement tax planning. Choose a layout when you set up a profile, or tap **Customize what you see…** at the bottom of the sidebar (also in Settings → Appearance):
 - **Start from** a preset: Simple, Student, Working professional, Freelancer / self-employed, Family & home, Near or in retirement, or Everything.
-- **Switch screens** on or off individually (Dashboard, Help & Money Map, Income & Paycheck, Expenses & Rent, Profile & Assumptions and Settings are always shown). Right-click a screen in the sidebar and choose *Hide from sidebar* for a quick change.
+- **Switch screens** on or off individually (Dashboard, Help & Money Map, Income & Paycheck, Expenses & Rent, Profile & Assumptions and Settings are always shown; W-2 Forms and the Retirement Tax Plan only appear for US profiles). Right-click a screen in the sidebar and choose *Hide from sidebar* for a quick change.
 - **Cards inside screens:** turn off Dashboard, Budget, Investments and Taxes cards you don't use. Dashboard figures about retirement and taxes also follow your layout.
 
 Nothing is deleted; hidden screens leave the sidebar and the Go menu but links to them still work. Each profile has its own layout, saved with the profile so it syncs.
@@ -89,6 +97,9 @@ KPI tiles, *Where your paycheck goes* (donut from gross pay: taxes, housing, liv
  **Milestones** shows the next milestones within reach (net worth, emergency fund, debt-free, saving 20%, invested, credit score) and the ones you've reached with the date; you're notified when you reach a new one.
 ### Help & Money Map
 How everything in your finances fits together, as an interactive map: **Income** splits into **Taxes**, **Paycheck savings** (401(k), HSA, insurance) and **Take-home pay**; take-home pays for **Needs**, **Wants**, **Debt payments**, **Saving** and **Investing**; those build **Cash & savings**, **Investments**, **Home & other assets** and shrink **What you owe**; together they make your **Net worth** and **Your future**. **Employer stock** vests into what you own, and **Protection** (insurance and an emergency plan) guards it. Each circle shows your own number. Click a circle to see what it is, tips, the words to know and where the money comes from and goes — its lines light up, are labelled and show money moving along them; click a link to follow it, or **Open** to go to its screen. **Walk me through it** steps through all 17 parts in order. Below the map: five steps to get started, the **Sample Profile**, help for when you don't know a number, and **Money words, explained** — a searchable glossary of 60+ terms (APR, 401(k), vesting, net worth…) in plain English.
+
+### Starting Out
+Money basics for a first job, a first paycheck — or no job yet. **First steps** tracks your progress through seven of them (a bank account, writing down income, tracking spending, an emergency fund, a goal, credit, investing early), each opening the screen where you do it. **Your paycheck, explained** shows pay before tax, what's taken out and what reaches your bank — and tells you when you earn under the tax-free amount, so tax taken from your pay should come back. **Building credit** explains how to start and what helps your score. Calculators show **what a car really costs** (loan, insurance, fuel, upkeep and lost value, as a share of take-home pay), **paying for college** (after grants, saved monthly or borrowed) and **why starting early matters** (the same monthly amount from now versus ten years later). In the Student and Simple layouts.
 
 ### Money Boxes
 Your money as boxes inside boxes — the bigger the box, the more money. **Money in & out**: your income is the big box, with **Taxes**, **Paycheck savings & benefits** and **Take-home pay** inside; take-home holds **Needs**, **Wants**, **Debt payments**, **Saving**, **Investing**, **Property costs** and what's **Not assigned yet**, and those open into each category, tax and debt. Boxes with boxes inside show them faintly; click one to open it, and use the path at the top to go back out. Monthly or yearly. If you plan to spend more than you take home, a red note says by how much. **What you own & owe** shows your balances the same way: cash by kind of account, investments by account, vested company stock, home and property, valuables — next to every debt. Below the boxes, a list with bars, and how take-home compares with the 50/30/20 guide.
