@@ -69,5 +69,31 @@ Steady (not random) yearly projection: price grows at the share-price rate, divi
 ## Rent vs buy
 Monthly simulation including mortgage amortization, property tax, insurance, maintenance, HOA, appreciation, closing (3%) and selling (6%) costs. The cheaper side invests the monthly difference at the investment return.
 
+## Employer stock
+- Vesting: nothing before the cliff; at the cliff the cliff's share vests; then a piece every 1, 3, 6 or 12 months until the whole grant has vested. Options are worth the share price minus the strike price (never below 0); RSUs, ESPP and owned shares are worth the share price.
+- RSU tax for the next 12 months of vesting = value × (your marginal rate + payroll tax: 7.65% in the US, the country's social-insurance rate elsewhere). US only: employers usually withhold 22% federal, so the extra set aside = value × (marginal rate − 22%).
+- One company: single stocks you hold by ticker (broad index funds excluded) plus vested company stock, as a share of cash and investments; 10% or more is notable, 20% or more high.
+
+## Student loans
+Simulated month by month, with income rising by your salary-growth assumption. Standard: fixed 10-year payment. Graduated: starts low and rises 15% every two years, paid off in 10 years. Extended: 25 years, for more than $30,000 of loans. Income-Based (IBR): 10% of income above 150% of the poverty guideline, never more than Standard, forgiven after 20 years. Repayment Assistance Plan (RAP): 1–10% of income by $10,000 band, $50 a month less per dependent, at least $10; unpaid interest is waived and the balance falls at least $50 a month; forgiven after 30 years. UK Plan 2 / Plan 5: 9% of income above £28,470 / £25,000, written off after 30 / 40 years.
+
+## Emergency plan
+Essentials = needs + minimum debt payments + property running costs. Months you could last = money ÷ (monthly cost − income still coming in), counting cash only; then adding taxable investments at 75% of today's value; then retirement accounts at 60% (after tax and penalty). Six months of essentials or more is strong; three to six OK; under three thin.
+
+## Insurance check (rules of thumb)
+Life: about 10 years of pay plus debts, less savings, when someone depends on your income. Disability: about 60% of pay a month. Health: needed everywhere; private cover optional where a public system covers residents (UK, Canada, Germany, Australia, Japan, Singapore). Home or renters cover by whether you own or rent. Auto liability at least 100,000 (in your currency's scale). Extra liability (umbrella) cover once net worth passes about 500,000. Long-term care from age 50. Amounts scale with your currency.
+
+## Starting Out
+Tax-free amount = your standard deduction or tax-free allowance. Car: loan payment + insurance + fuel + upkeep (1.5% of the price a year new, 3% used) + value lost (15% a year new, 10% used). College: four years × (cost − grants) − savings, as a monthly saving until you start or a 10-year loan. Starting early: monthly contributions at 7% a year from now, versus starting 10 years later.
+
+## Money Boxes
+Income = taxes + paycheck savings and benefits + take-home pay. Take-home holds needs, wants, debt payments, saving, investing, property costs and what's not assigned yet; if your plan spends more than you take home, the box holds the whole plan and the gap is shown. Each box's area is its share of the money (a squarified treemap). “What you own & owe” draws balances the same way.
+
+## Pay statements outside the US
+Estimated tax for a statement = your estimated income tax × (the statement's pay ÷ your yearly gross). More taken than estimated suggests a refund; less suggests you may owe.
+
+## Amounts in other currencies
+Fixed amounts in rules and defaults are set in US-dollar terms and scaled to your currency (e.g. ×85 for rupees, ×150 for yen) so they mean the same everywhere.
+
 ## Regional data
 Rough country defaults (inflation, deposit/savings/mortgage rates, market returns, rent growth, home appreciation) and US state median rents are approximate and editable through overrides. They are not live market data.
