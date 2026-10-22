@@ -3,12 +3,20 @@
 ## Getting started
 
 On first launch choose **Set up my profile** or **Explore the Sample Profile first**. **Sample profiles** are made-up plans for different lives, each in its own profile so they never mix with your numbers:
-- **Alex, 34** — a working professional in California with every screen filled in: salary and RSUs, a rental condo, investments, insurance, gold, a CD and an expected inheritance.
-- **Maya, 16** — high school in Texas, a weekend job and an allowance, saving for a first car.
-- **Jordan, 20** — college in Ohio: a campus job, a scholarship, rent, student loans and a first credit card.
-- **Sam, 29** — between jobs in Washington: unemployment benefits, an emergency fund, a car loan and card debt.
-- **Pat & Lee, 67** — retired in Florida: Social Security, a pension, dividends, IRAs and a paid-off home.
-- **Priya, 31** — a professional in India, in rupees: EPF, PPF, SIPs, a fixed deposit and gold.
+- **Sample Profile – Working Professional** (Alex, 34) — California with every screen filled in: salary and RSUs, a rental condo, investments, insurance, gold, a CD and an expected inheritance.
+- **Sample Profile – High School Student** (Maya, 16) — Texas, a weekend job and an allowance, saving for a first car.
+- **Sample Profile – College Student** (Jordan, 20) — Ohio: a campus job, a scholarship, rent, student loans and a first credit card.
+- **Sample Profile – Between Jobs** (Sam, 29) — Washington: unemployment benefits, an emergency fund, a car loan and card debt.
+- **Sample Profile – Retired Couple** (Pat & Lee, 67) — Florida: Social Security, a pension, dividends, IRAs and a paid-off home.
+- **Sample Profile – India** (Priya, 31) — rupees: EPF, PPF, SIPs, a fixed deposit and gold.
+- **Sample Profile – Senior Software Engineer** (Dev, 38) — Seattle: RSUs, stock options and ESPP, a maxed 401(k), backdoor Roth, individual stocks, ETFs and crypto, a home and a rental condo.
+- **Sample Profile – Nurse** (Maria, 32) — Chicago: hourly pay with overtime, a 403(b), a car loan and saving for a first home.
+- **Sample Profile – Teacher** (Kim, 36) — Ohio: a teachers' pension, 403(b) and 457(b), student loans on track for forgiveness, a child and a 529.
+- **Sample Profile – Small Business Owner** (Luis & Ana, 45) — Austin: a bakery's self-employed income, quarterly tax set-aside, a SEP-IRA, an equipment loan, a home and two kids.
+- **Sample Profile – Young Family** (Chris & Taylor, 33) — Denver: two incomes, two young kids, daycare, two 529s, a mortgage, life insurance and a will in progress.
+- **Sample Profile – Early Retiree** (Morgan, 47) — Tennessee: retired at 45 on investments, dividends and a rental duplex, a cash bucket and marketplace health cover.
+- **Sample Profile – UK (Scotland)** (Fiona, 29) — Glasgow, in pounds: Scottish income tax, a workplace pension, ISAs, a Plan 4 student loan and a P60.
+- **Sample Profile – Australia** (Jack, 36) — Sydney, in Australian dollars: superannuation, a home loan with an offset account, ETFs, a HELP debt and an income statement.
 
 Open any of them from *Help & Money Map* or *Profiles*, look around and compare with your own plan, then switch back from the top of the sidebar. **Reset sample** undoes changes to the one you're in, and **Start my own from scratch** makes a blank profile of your own. Anyone from 13 up can set up a profile; under 18, some accounts need a parent to open them.
 
