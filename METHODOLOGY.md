@@ -15,7 +15,15 @@ All figures are **estimates** for planning. Values marked “2026” reflect pub
 - **401(k)/HSA payroll contributions** are capped at the 2026 limits ($24,500 + catch-ups; HSA $4,400 self / $8,750 family + $1,000 at 55+).
 - **Social Security benefits**: taxable part from the IRS provisional-income test (0–85%); not taxed by states here.
 - **States**: simplified single-filer brackets (doubled for joint filers, except California's and Massachusetts' $1M surtax thresholds) and standard deductions; local/city taxes excluded.
-- **Other countries**: national brackets plus approximate regional and social-insurance rates (India new regime with 87A rebate, 10/15/25% surcharge above ₹50L/₹1Cr/₹2Cr and 4% cess; UK allowance taper; etc.).
+- **Other countries**: national brackets plus approximate regional and social-insurance rates:
+  - **India** new regime with 87A rebate, 10/15/25% surcharge above ₹50L/₹1Cr/₹2Cr and 4% cess.
+  - **UK** allowance taper above £100k; National Insurance 8% to £50,270, 2% above.
+  - **Ireland** (2026) 20% to €44,000, 40% above, less €4,000 personal and employee tax credits; USC 0.5% / 2% / 3% / 8% on gross income (none at €13,000 or less); PRSI 4.35% from 1 October 2026 (4.2% before).
+  - **South Africa** SARS 2026/27 brackets less the R17,820 primary rebate; retirement contributions deductible up to 27.5% of income (max R350,000); UIF 1% up to R17,712 a month.
+  - **New Zealand** 10.5% / 17.5% / 30% / 33% / 39% with no tax-free threshold; KiwiSaver from after-tax pay; ACC earners' levy 1.75% to $156,641.
+  - **Australia** (2026-27) 15% / 30% / 37% / 45% above the $18,200 threshold plus the 2% Medicare levy.
+  - **Canada** (rough estimate, not a launch country) federal brackets above the basic personal amount plus a flat 8% for provincial tax, which varies a lot by province; CPP and EI.
+  - **UK** figures use England, Wales and Northern Ireland bands; Scottish income tax bands differ.
 
 ## Budgets & bills
 - Spent this month = recurring expenses active at any point this month (monthly equivalent) + one-off purchases dated this month. Projected = recurring + one-off × (days in month ÷ days elapsed).
@@ -89,11 +97,12 @@ Tax-free amount = your standard deduction or tax-free allowance. Car: loan payme
 ## Money Boxes
 Income = taxes + paycheck savings and benefits + take-home pay. Take-home holds needs, wants, debt payments, saving, investing, property costs and what's not assigned yet; if your plan spends more than you take home, the box holds the whole plan and the gap is shown. Each box's area is its share of the money (a squarified treemap). “What you own & owe” draws balances the same way.
 
-## Pay statements outside the US
-Estimated tax for a statement = your estimated income tax × (the statement's pay ÷ your yearly gross). More taken than estimated suggests a refund; less suggests you may owe.
+## Pay statements
+One "Pay Statements" screen in every country, showing the local year-end form: W-2 (US), P60 (UK), Employment Detail Summary (Ireland), IRP5 (South Africa), summary of earnings from myIR (New Zealand), Form 16 (India), income statement (Australia), T4 (Canada), and others.
+Estimated tax for a statement = your estimated income and local tax (plus the ACC levy in New Zealand, where PAYE includes it) × (the statement's pay ÷ your yearly gross), compared with every tax line the form shows (e.g. PAYE + USC in Ireland). More taken than estimated suggests a refund; less suggests you may owe.
 
 ## Amounts in other currencies
-Fixed amounts in rules and defaults are set in US-dollar terms and scaled to your currency (e.g. ×85 for rupees, ×150 for yen) so they mean the same everywhere.
+Fixed amounts in rules and defaults are set in US-dollar terms and scaled to your currency (e.g. ×85 for rupees, ×17 for rand, ×150 for yen) so they mean the same everywhere. Euro, pound, Canadian, Australian and New Zealand dollar amounts are used as-is.
 
 ## Regional data
 Rough country defaults (inflation, deposit/savings/mortgage rates, market returns, rent growth, home appreciation) and US state median rents are approximate and editable through overrides. They are not live market data.
