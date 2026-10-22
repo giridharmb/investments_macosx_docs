@@ -23,7 +23,7 @@ All figures are **estimates** for planning. Values marked “2026” reflect pub
   - **New Zealand** 10.5% / 17.5% / 30% / 33% / 39% with no tax-free threshold; KiwiSaver from after-tax pay; ACC earners' levy 1.75% to $156,641.
   - **Australia** (2026-27) 15% / 30% / 37% / 45% above the $18,200 threshold plus the 2% Medicare levy.
   - **Canada** (rough estimate, not a launch country) federal brackets above the basic personal amount plus a flat 8% for provincial tax, which varies a lot by province; CPP and EI.
-  - **UK** figures use England, Wales and Northern Ireland bands; Scottish income tax bands differ.
+  - **Scotland** (choose Profile → Where you live) 2026/27 Scottish bands on income above the £12,570 allowance: 19% to £16,537, 20% to £29,526, 21% to £43,662, 42% to £75,000, 45% to £125,140, 48% above. National Insurance is UK-wide.
 
 ## Budgets & bills
 - Spent this month = recurring expenses active at any point this month (monthly equivalent) + one-off purchases dated this month. Projected = recurring + one-off × (days in month ÷ days elapsed).
