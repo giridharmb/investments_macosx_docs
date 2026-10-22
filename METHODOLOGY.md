@@ -106,3 +106,20 @@ Fixed amounts in rules and defaults are set in US-dollar terms and scaled to you
 
 ## Regional data
 Rough country defaults (inflation, deposit/savings/mortgage rates, market returns, rent growth, home appreciation) and US state median rents are approximate and editable through overrides. They are not live market data.
+
+## Your own tax settings
+On the Taxes screen you can replace parts of a country's rules with your own values: the tax-free allowance, a regional or provincial rate (for example your Canadian province), the social contribution rate, and extra tax credits a year (taken off income tax, never below zero). They're saved on your profile for that country, so switching country brings its own values back; leave a box empty to use WealthPilot's value. In the US only extra credits can be set.
+
+## Sources
+Tax figures follow the official pages below and were last compared with them in October 2026. The Taxes screen lists the ones for your country, with what the estimate leaves out.
+- **United States:** IRS 2026 inflation adjustments (brackets, standard deduction, credits); Social Security Administration 2026 wage base; Federal Student Aid repayment plans.
+- **United Kingdom:** GOV.UK Income Tax rates, Scottish Income Tax, National Insurance rates, student loan repayment thresholds.
+- **Ireland:** Revenue tax rates, bands and credits; Revenue USC rates; Department of Social Protection PRSI rates.
+- **South Africa:** SARS rates of tax for individuals; SARS Unemployment Insurance Fund.
+- **New Zealand:** Inland Revenue tax rates for individuals; ACC levies.
+- **India:** Income Tax Department slab rates and rebate.
+- **Australia:** ATO tax rates for Australian residents.
+- **Canada:** Canada Revenue Agency income tax rates (provincial tax is a rough average).
+- **Exchange rates:** European Central Bank reference rates via Frankfurter. **Share prices and dividends:** Yahoo Finance, when you refresh.
+
+Estimates are for planning, not tax advice.
