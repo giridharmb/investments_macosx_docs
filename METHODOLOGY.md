@@ -107,8 +107,10 @@ Fixed amounts in rules and defaults are set in US-dollar terms and scaled to you
 ## Regional data
 Rough country defaults (inflation, deposit/savings/mortgage rates, market returns, rent growth, home appreciation) and US state median rents are approximate and editable through overrides. They are not live market data.
 
-## Your own tax settings
-On the Taxes screen you can replace parts of a country's rules with your own values: the tax-free allowance, a regional or provincial rate (for example your Canadian province), the social contribution rate, and extra tax credits a year (taken off income tax, never below zero). They're saved on your profile for that country, so switching country brings its own values back; leave a box empty to use WealthPilot's value. In the US only extra credits can be set.
+## Your own tax rules
+On the Taxes screen, *Tax rules → Edit tax rules…* lets you replace any part of your country's rules: the income tax bands (each rate applies to the part of taxable income, after the allowance, that falls in its band), the tax-free allowance (the US standard deduction), a flat regional, state or local rate, the social contribution rate and the yearly pay limit it applies to, extra tax credits a year (taken off income tax, never below zero), the names of the tax lines and a link to where your numbers come from. Only what you change is saved, so the rest keeps following WealthPilot's rules; your values are kept per country on your profile, synced and backed up. In the UK, Ireland and India a contribution rate you enter replaces their banded contributions with a flat rate; in the US your bands are used for every filing status and Medicare isn't changed.
+
+**Anywhere else:** choose *Other country* in Profile, then enter the country's name, currency and tax rules. Everything else in the app works the same; the estimate covers bands, an allowance, a flat regional rate, flat social contributions and credits — special rules (credits that phase out, family taxation, special rates on investment income) aren't modeled.
 
 ## Sources
 Tax figures follow the official pages below and were last compared with them in October 2026. The Taxes screen lists the ones for your country, with what the estimate leaves out.

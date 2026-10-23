@@ -135,6 +135,8 @@ Add any income: salary (any pay frequency), part-time or gig work and bonuses (t
 ### Taxes
 Annual estimate with federal/national, state/regional, Social Security/social insurance, Medicare and self-employment tax; effective and marginal rates; a bracket chart; and a *what-if* slider showing how much tax extra pre-tax contributions save. With a W-2 on file (US) it compares withholding vs. estimated liability.
  **Quarterly estimated tax** (US) works out the tax on income without withholding (self-employment, rent, dividends, benefits) and splits it across the four due dates; *Mark paid* as you pay. Payments are needed when you'd owe $1,000 or more.
+**Tax rules:** the *Tax rules* card shows the bands, allowance and contributions in use. *Edit tax rules…* lets you change any of them — every box explains what it means with an example — and *Use WealthPilot's values again* undoes it. Living somewhere WealthPilot doesn't cover? Choose **Other country** in Profile and enter your country's name, currency and rules here. *How this is worked out* lists the official sources and what the estimate leaves out.
+
 ### Pay Statements (US: W-2)
 Optional — in the US, W-2s let WealthPilot check your withholding. Click **Enter manually** (or **+**) and copy each number from your W-2 into the box with the same number. W-2s are **typed in, not scanned**: photos and PDFs were sometimes misread, and one wrong digit changes your tax picture. Every box has **ⓘ** explaining what it is and where it sits on the form, and *Where is everything on a W-2?* shows a sketch of the form.
 
