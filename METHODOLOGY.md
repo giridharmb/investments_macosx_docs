@@ -10,6 +10,8 @@ All figures are **estimates** for planning. Values marked “2026” reflect pub
 - Emergency months = emergency fund ÷ (essential expenses + debt payments).
 
 ## Taxes
+**Launch countries:** United States, United Kingdom (incl. Scotland), Ireland, South Africa, New Zealand, India and Australia — rates checked against official sources in October 2026. Canada, Germany, Singapore, UAE and Japan are rough estimates; *Other country* uses rules you enter. All tax figures are planning estimates, not tax advice.
+
 - **US federal 2026** brackets (IRS Rev. Proc. 2025-32), standard deduction $16,100 single / $32,200 joint / $24,150 HoH, child tax credit $2,200 with phase-out.
 - **FICA**: Social Security 6.2% to the $184,500 wage base; Medicare 1.45% + 0.9% above $200k/$250k. Self-employment tax 15.3% on 92.35% of net earnings.
 - **401(k)/HSA payroll contributions** are capped at the 2026 limits ($24,500 + catch-ups; HSA $4,400 self / $8,750 family + $1,000 at 55+).

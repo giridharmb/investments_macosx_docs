@@ -83,6 +83,36 @@ Screenshots below are from the iPad build, followed by the macOS app.
 | **Profiles** | | |
 | ![](screenshots/mac/10-profiles.png) | | |
 
+## Countries
+
+WealthPilot works the same everywhere for budgets, debts, savings, investments, projections and net worth. What changes by country is the **tax and pay** side — income tax, social contributions, year-end pay statements and student loans — and the currency.
+
+### Launch countries
+
+These have their own tax rules, currency, year-end pay statement, sample profile and tests, with 2026 rates checked against the official sources listed in the app (*Taxes → How this is worked out*, checked October 2026):
+
+| Country | Currency | Pay statement | Notes |
+|---|---|---|---|
+| 🇺🇸 United States | USD | W-2 | Federal brackets, FICA and simplified state tax; no city taxes |
+| 🇬🇧 United Kingdom | GBP | P60 | England, Wales and Northern Ireland bands, or Scotland's (choose in Profile); student loan Plans 1, 2, 4 and 5 |
+| 🇮🇪 Ireland | EUR | Employment Detail Summary | Income tax with credits, USC and PRSI (with the PRSI credit) |
+| 🇿🇦 South Africa | ZAR | IRP5 | 2026/27 brackets, age-based rebates, UIF, retirement deduction limit |
+| 🇳🇿 New Zealand | NZD | Summary of earnings (myIR) | Income tax, ACC earners' levy, KiwiSaver, student loans |
+| 🇮🇳 India | INR | Form 16 | New tax regime only |
+| 🇦🇺 Australia | AUD | Income statement | 2026-27 rates, Medicare levy, HELP repayments |
+
+### Rough estimates (not launch countries)
+
+🇨🇦 Canada (provincial tax is a flat 8% average unless you enter your province's rate), 🇩🇪 Germany, 🇸🇬 Singapore, 🇦🇪 UAE and 🇯🇵 Japan have approximate rules that haven't been checked against official sources.
+
+### Anywhere else
+
+Choose **Other country** in Profile, then enter your country's name, currency, income tax bands, allowance and contributions under *Taxes → Tax rules*. Every number can also be changed for the countries above — for example right after a budget.
+
+### What "supported" means
+
+Tax figures are **planning estimates, not tax advice**. Each country's estimate covers the main rules; what it leaves out (credits, family taxation, special rates) is listed in the app on the Taxes screen. Rates change every year: check your tax authority, and use *Tax rules* to update any number yourself.
+
 ## Requirements
 
 - macOS 26 (Tahoe) or later on Apple silicon / Intel
