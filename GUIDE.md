@@ -17,6 +17,9 @@ On first launch choose **Set up my profile** or **Explore the Sample Profile fir
 - **Sample Profile – Early Retiree** (Morgan, 47) — Tennessee: retired at 45 on investments, dividends and a rental duplex, a cash bucket and marketplace health cover.
 - **Sample Profile – UK (Scotland)** (Fiona, 29) — Glasgow, in pounds: Scottish income tax, a workplace pension, ISAs, a Plan 4 student loan and a P60.
 - **Sample Profile – Australia** (Jack, 36) — Sydney, in Australian dollars: superannuation, a home loan with an offset account, ETFs, a HELP debt and an income statement.
+- **Sample Profile – Ireland** (Aoife, 30) — Dublin, in euros: income tax with USC and PRSI, a workplace pension, ETFs, State Savings and a first-home fund.
+- **Sample Profile – South Africa** (Thabo, 34) — Johannesburg, in rand: a pension fund, a retirement annuity, a tax-free savings account, a home loan, medical aid and an IRP5.
+- **Sample Profile – New Zealand** (Sophie, 28) — Auckland, in New Zealand dollars: KiwiSaver, an interest-free student loan, renting and saving for a first home.
 
 Open any of them from *Help & Money Map* or *Profiles*, look around and compare with your own plan, then switch back from the top of the sidebar. **Reset sample** undoes changes to the one you're in, and **Start my own from scratch** makes a blank profile of your own. Anyone from 13 up can set up a profile; under 18, some accounts need a parent to open them.
 
