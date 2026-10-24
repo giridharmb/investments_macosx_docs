@@ -23,6 +23,8 @@ On first launch choose **Set up my profile** or **Explore the Sample Profile fir
 
 Open any of them from *Help & Money Map* or *Profiles*, look around and compare with your own plan, then switch back from the top of the sidebar. **Reset sample** undoes changes to the one you're in, and **Start my own from scratch** makes a blank profile of your own. Anyone from 13 up can set up a profile; under 18, some accounts need a parent to open them.
 
+**Your data stays yours:** your plan, Vault files and all your settings are saved on your device and, with iCloud sync on, only in your own private iCloud account — nothing is shared outside. *Help & Money Map* and *Settings → About* say so too.
+
 New to money words? Start with **Help & Money Map** — it shows how everything fits together.
 
 Only four things are **required** for meaningful results:

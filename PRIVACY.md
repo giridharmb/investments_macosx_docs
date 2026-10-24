@@ -1,11 +1,12 @@
 # Privacy policy
 
-_Last updated: October 22, 2026_
+_Last updated: October 24, 2026_
 
-WealthPilot is designed so your financial data never leaves your device. The same summary is in the app under *Settings → Your data & privacy*.
+WealthPilot is designed so your financial data never leaves your device. The same summary is in the app under *Settings → Your data & privacy*, *Settings → About* and *Help & Money Map*.
 
 - **No account, no server.** All data (income, expenses, debts, balances, W-2s, goals) is stored locally using Apple's SwiftData in the app's private container.
 - **Optional iCloud sync.** If you turn on *Settings → Sync with iCloud*, your data — including screen settings and saved scenarios — is stored in **your own private iCloud (CloudKit) database**, which only you can access. The developer cannot see it. Data is encrypted in transit and at rest by Apple; with Advanced Data Protection it is end-to-end encrypted. A full copy of your data is always kept on the device as well, so signing out of iCloud doesn't remove it from the device. Turn sync off at any time; delete iCloud data via your device's iCloud settings (Manage Storage).
+- **Settings.** All the settings that belong to your plan — layouts, budgets, tax rules, saved scenarios, screen settings — are saved with your plan: on your device and, with iCloud sync on, in your own private iCloud database. App preferences on the Settings screen (appearance, notifications, App Lock and the like) stay on each device. None of it is shared outside.
 - **No tracking or analytics.** The app contains no third-party SDKs, advertising, or analytics.
 - **On-device AI.** The AI Advisor uses Apple's on-device Foundation Models (W-2s and other pay statements are typed in, never scanned). Prompts and responses are processed on your device.
 - **Documents.** WealthPilot never reads text from photos, receipts or documents, and doesn't use the camera. Receipts you attach to an expense are kept with it on this device only (not synced or included in backups). Bank and card statement files you import are read on the device; only the lines you tick are saved, as expenses, plus the merchant → category rules the app learns (both in your data, synced only if iCloud sync is on). Documents you add to the Document Vault are stored with your data — synced through your private iCloud only if iCloud sync is on — and the app never reads them. They're included in backup and export files (and in automatic backups on this device), so keep exported backups somewhere safe. WealthPilot never connects to your bank.
