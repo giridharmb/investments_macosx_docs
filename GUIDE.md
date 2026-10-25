@@ -2,7 +2,11 @@
 
 ## Getting started
 
-On first launch choose **Set up my profile** or **Explore the Sample Profile first**. **Sample profiles** are made-up plans for different lives, each in its own profile so they never mix with your numbers:
+Setup starts with **Where do you live?** — your country, already picked from your device's region setting (no location permission is asked for), plus your US state or Scotland. It sets your currency and tax rules. Then the short **What WealthPilot does** slide show, and a choice: **Set up my profile** or **Explore the Sample Profile first**.
+
+**Set up my profile** asks a few tap-only questions, all optional: your age; what describes you (student, working, self-employed, between jobs, retired); how many jobs and what other income you have (side work, rental, pension, benefits, dividends); whether you rent, have a mortgage, own outright or live with family; any debts (student loan, credit card, car, personal loan); and your partner and children. The answers fill in your profile, choose which screens you see, and add your jobs, rent and debts **by name** — with their amounts marked “Don't know”, so the **Inputs Checklist** lists exactly what's left to fill in. Nothing is made up.
+
+**Sample profiles** are made-up plans for different lives, each in its own profile so they never mix with your numbers:
 - **Sample Profile – Working Professional** (Alex, 34) — California with every screen filled in: salary and RSUs, a rental condo, investments, insurance, gold, a CD and an expected inheritance.
 - **Sample Profile – High School Student** (Maya, 16) — Texas, a weekend job and an allowance, saving for a first car.
 - **Sample Profile – College Student** (Jordan, 20) — Ohio: a campus job, a scholarship, rent, student loans and a first credit card.
@@ -35,6 +39,25 @@ Only four things are **required** for meaningful results:
 4. A few monthly expenses
 
 Everything else is **recommended** (debts, savings, investments, state) or **optional** (W-2, filing status, Social Security estimate, goals, other assets). The **Inputs Checklist** screen shows what's missing and what each input unlocks.
+
+## How to use WealthPilot
+
+**What WealthPilot does** — the first time you open the app, a short slide show explains what it does before setup: your whole picture, money in, money out, debts, saving and goals, investing, how it all fits and being ready for a lost income. Each slide shows one of the app's real charts with example numbers in your currency and how it helps. **Skip** goes straight to setup; replay it any time from *Help & Money Map → How to use WealthPilot* or *Settings → Appearance*.
+
+*Help & Money Map → How to use WealthPilot* has eight short guided tours. Each one opens the real screens one by one with a card at the bottom saying what to do there — **Next**, **Back** or **✕** to stop. Nothing is entered for you, so it's safe on your own profile; open a sample profile first to see every screen with numbers.
+
+| Tour | What it covers |
+|---|---|
+| Set up | your profile, country, tax rules, settings and profiles |
+| Money in | income, pay statements and taxes |
+| Money out | expenses, budgets and bills, subscriptions and the monthly plan |
+| Debts | loans, cards and payoff plans |
+| Saving & investing | savings and goals, investments, stock grants and real estate |
+| Seeing your money | Dashboard, Money Boxes, Money Map, net worth history and projections |
+| Protecting it | emergency plan, insurance check and document vault |
+| Your data | reports, backups and privacy |
+
+**Choosing the profile that opens:** *Settings → When WealthPilot opens* — your last profile (the default), **Ask me which profile** (a picker each time the app starts: your profiles, the sample profiles, or a new one — handy on a shared iPad), or **Always** a profile you choose. It's set on each device.
 
 ## Menus & keyboard shortcuts
 
