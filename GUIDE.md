@@ -88,10 +88,6 @@ Say **"Log an expense in WealthPilot"** to add a purchase by voice (amount, then
 - **Tax-free allowances** (*Taxes*) — this year's allowances and how much is used: ISA and Lifetime ISA (UK), 401(k), IRA and HSA (US), pension relief (Ireland), TFSA and the retirement-fund deduction (South Africa), KiwiSaver (New Zealand), 80C and NPS (India), super caps (Australia), TFSA and RRSP (Canada). Pension and 401(k) contributions from your pay are filled in as an estimate until you enter your own figure; **Update** records what you've put in and lets you use your own limit (carry-forward, a notice of assessment). Amounts start again when the tax year does.
 - **Year in review** (*Reports & Digest*) — what you earned and took home, what you spent and kept, your biggest costs and biggest month, and how net worth and debt moved, for this year so far or any earlier year.
 
-## Sharing with a partner
-
-*Profiles → Share with a partner* sends the open profile to the people you invite (Messages, Mail or a link) through Apple's iCloud sharing. They need WealthPilot and an Apple Account, and get it as a profile of their own. **Send my changes** sends your latest plan; when your partner has sent one, **Get latest** replaces your copy with theirs — each update is the whole plan, so the latest one sent wins (take turns, or send after each change). *Invite or manage people* adds someone or changes access; **Stop sharing** (or **Leave**, for someone invited) ends it and keeps each copy as a normal profile.
-
 ## Color themes
 
 *Settings → Appearance*: **Light or dark** (System by default) and a **Color theme** — System (the default: the accent color from your Mac's System Settings; WealthPilot's blue on iPhone and iPad), Ocean, Teal, Forest, Sunset, Berry, Grape or Graphite. Buttons, highlights and the main chart color change straight away. On the Mac the sidebar's selected row keeps the macOS accent color.
